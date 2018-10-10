@@ -265,39 +265,39 @@
       "PIA_VAL_RT": {
         "name": "Formal validation",#"Ametlik kinnitamine"
         "description": "Decide on whether the selected controls, residual risks and action plan are acceptable, with justifications, in view of the previously identified stakes and views of the stakeholders. In this way, the PIA may be:<br>- validated<br>- conditional on improvement (explain in what way)<br>- refused (along with the processing under consideration). Where necessary, repeat the previous steps so that the PIA can be validated. This decision does not prejudge the compliance assessment which may be carried out, where applicable, by the Data Protection Authority (the CNIL in France), as part of preliminary formalities or checks for example.",
-        "source": "PIAF Connected Objects p40"
+        "source": "PIAF Connected Objects p40"#"üldmääruse art 40"
       },
       "PIA_VAL_CART": {
-        "name": "Mapping of risks",
-        "description": "Graph illustrating the good security practices, with a conformity value attributed to each on the basis of its assessment in previous steps.",
-        "source": "PIAF Connected Objects p34"
+        "name": "Mapping of risks",#"Riskide kaardistamine"
+        "description": "Graph illustrating the good security practices, with a conformity value attributed to each on the basis of its assessment in previous steps.",#"Joonis iseloomustab head turvalisuspraktikat, kooskõlalisuse väärtusega lisatud igale eelmisele sammule neile antud hinnangute põhjal."
+        "source": "PIAF Connected Objects p34"#"üldmääruse art 34"
       },
       "PIA_VAL_ACT": {
-        "name": "Action plan",
-        "description": "corrective controls suggested by the assessor in previous steps, drawing up an action plan setting out, for each action, its manager, frequency, difficulty, cost and progress.",
-        "source": "None"
+        "name": "Action plan",#"Tegevuskava"
+        "description": "corrective controls suggested by the assessor in previous steps, drawing up an action plan setting out, for each action, its manager, frequency, difficulty, cost and progress.",#"hindaja poolt soovitatud korrigeerivad meetmed, tegevuskava koostamisel määratakse igale tegevusele vastutav isik, sagedus, keerulisus, maksumus ja edenemine"
+        "source": "None"#"Puudub"
       },
       "PIA_TEC_CHIF": {
-        "placeholder": "Describe here the means implemented for ensuring the confidentiality of data",
-        "name": "Encryption",
-        "description": "Means implemented for <strong>ensuring the confidentiality</strong> of data stored (in the database, in flat files, backups, etc.), as well as the procedure for managing encryption keys (creation, storage, change in the event of suspected cases of data compromise, etc.).<br> Describe the encryption means employed for data flows (VPN, TLS, etc.) implemented in the processing.",
-        "source": "PIAF Connected Objects p21"
+        "placeholder": "Describe here the means implemented for ensuring the confidentiality of data",#"Kirjeldage siin kasutatavaid meetmeid, et tagada andmete turvalisus" 
+        "name": "Encryption",#"Krüpteerimine"
+        "description": "Means implemented for <strong>ensuring the confidentiality</strong> of data stored (in the database, in flat files, backups, etc.), as well as the procedure for managing encryption keys (creation, storage, change in the event of suspected cases of data compromise, etc.).<br> Describe the encryption means employed for data flows (VPN, TLS, etc.) implemented in the processing.",#"Kasutuselevõetud meetmed, et <strong> säilitatud andmed (andmebaasis, tagavarakoopias jm), samuti krüpteerimisvõtmete haldus (loomine, säilitamine, muutmine andmete kompromiteerimise kahtluse korral jne).<br> Kirjeldage andmevoole rakendatud krüteerimismeetmeid (VPN, TLS jt) kasutatud andmetöötlusel."
+        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
       },
       "PIA_TEC_ANO": {
-        "placeholder": "Indicate here implemented anonymisation mechanisms",
-        "name": "Anonymisation",
-        "description": "Indicate here whether anonymisation mechanisms are implemented, which ones and for what purpose. <br>Remember to clearly distinguish between anonymous and pseudonymous data.",
-        "source": "PIAF Connected Objects p21"
+        "placeholder": "Indicate here implemented anonymisation mechanisms",#"Näidake siin kasutatavaid anonümiseerimise mehhanisme"
+        "name": "Anonymisation",#"Anonümiseerimine"
+        "description": "Indicate here whether anonymisation mechanisms are implemented, which ones and for what purpose. <br>Remember to clearly distinguish between anonymous and pseudonymous data.",#"Näidake siin kas anonümiseerimise meetmed on kasutusele võetud, kui on, siis millised ja milleks. <br>Ärge unustage selgelt eristada anaonüümseid ja pseudoanonüümseid andmeid."
+        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
       },
       "PIA_TEC_CLO": {
-        "placeholder": "Indicate here if processing partitioning is planned, and how this is carried out.",
-        "name": "Partitioning data",
-        "description": "Implementation of data partitioning helps to reduce the possibility that personal data can be correlated and that a breach of all personal data may occur.",
-        "source": "PIAF Connected Objects p21"
+        "placeholder": "Indicate here if processing partitioning is planned, and how this is carried out.",#"Siin näidake ära kas eraldamine on kavandatud ja kuidas kuidas seda läbi viiakse"
+        "name": "Partitioning data",#"Andmete eraldamine"
+        "description": "Implementation of data partitioning helps to reduce the possibility that personal data can be correlated and that a breach of all personal data may occur.",#"Andmete eraldamine aitab vähendada isikuandmete kokkuviimise võimalust ja isikuandmete avalikukstulekut.",
+        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
       },
       "PIA_TEC_CTLA": {
-        "placeholder": "Indicate here how users profiles are defined and attributed.",
-        "name": "Logical access control",
+        "placeholder": "Indicate here how users profiles are defined and attributed.",#"Näidake siin kuidas kasutajaprofiilid moodustatud ja omistatud"
+        "name": "Logical access control",#"Loogiline juurdepääsu kontroll"
         "description": "Methods to define and attribute users profiles. Specify the <strong>authentication</strong> means implemented . Where applicable, specify the rules applicable to passwords (minimum length, required characters, validity duration, number of failed attempts before access to account is locked, etc.).",
         "source": "PIAF Connected Objects p21"
       },
