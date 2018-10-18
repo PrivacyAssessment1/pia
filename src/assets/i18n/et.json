@@ -537,18 +537,18 @@
         "source": "Mesures_US and G29 guidelines http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf"
       },
       "PIA_DEF_PSEU": {
-        "name": "Pseudonymisation",
-        "description": "Processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.<br>Pseudonymisation  reduces  the  linkability  of  a  dataset  with  the  original  identity  of  a  data subject; as such, it is a useful security measure but not a method of anonymisation.",
+        "name": "Pseudonümiseerimine",
+        "description": "Isikuandmete töötlemine sellisel viisil, et isikuandmeid ei saa enam täiendavat teavet kasutamata seostada konkreetse andmesubjektiga, tingimusel et sellist täiendavat teavet hoitakse eraldi ja andmete tuvastatud või tuvastatava füüsilise isikuga seostamise välitmiseks võetakse tehnilisi ja korralduslikke meetmeid.<br>Pseudonümiseerimine vähendab andmestiku seostatavust andmesubjekti esialgse identiteediga. Sellisena on pseudonümiseerimine kasulik turvameede, kuid mitte anonüümseks muutmise meetod.",
         "source" :"GDPR Art. 4.5 and guidelines G29 p22 http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf"
       },
       "PIA_DEF_CLO": {
-        "name": "Data partitioning",
-        "description": "Data organisation methods that reduce the possibility that personal data can be correlated and that a breach of all personal data may occur. For instance, by identifying the personal data useful only to each business process and logically separating them.",
+        "name": "Andmete eraldamine",
+        "description": "Andmehaldusmeetodid, mis vähendavad isikuandmete korreleerimisvõimalust, seeläbi vähendades kõigi isikuandmete rikkumist. Näiteks tuvastades isikuandmed, mis on vajalikud ainult kindlaks äriprotsessiks ning eraldades need loogiliselt.",
         "source": "PIA3 p19 - WIKI"
       },
       "PIA_DEF_CTLA": {
-        "name": "Logical access controls",
-        "description": "Means implemented to limit the risks that unauthorized persons will access personal data electronically, it requires among other things to : <br>- <strong>manage users' profiles</strong> by separating tasks and areas of responsibility (preferably in centralised fashion) to limit access to personal data exclusively to authorised users by applying need-to-know and least-privilege principles;<br>- <strong>withdraw the rights of employees, contracting parties and other third parties when they are no longer authorised to access a premises or a resource</strong> or when their <strong>employment contract ends</strong>.",
+        "name": "Loogiline juurdepääsu kontroll",
+        "description": "Meetmed, mida rakendatakse selleks, et piirata volitamata isikute elektroonilist juurdepääsu isikuandmetele, mis nõuab mh järgnevat : <br>- <strong>kasutajate profiilide haldamist</strong> eraldades ülesanded vastutusaladest (eelistatavalt tsentraliseeritult), et võimaldada ainult volitatud kasutajatele ligipääs isikuandmetele kohaldades vajalikke põhimõtteid;<br>- <strong>tühistada töötajate, lepinguosaliste ja kolmandate isikute õigused, kui neil enam ei ole õigust pääseda ligi teatud valdustele ja ressurssidele </strong> või kui nende <strong>tööleping on lõppenud</strong>.",
         "source": "PIA3 p43 - WIKI"
       },
       "PIA_DEF_PWD": {
