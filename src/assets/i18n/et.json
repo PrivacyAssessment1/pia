@@ -552,13 +552,13 @@
         "source": "PIA3 p43 - WIKI"
       },
       "PIA_DEF_PWD": {
-        "name": "Password",
-        "description": "Passwords shall be composed of a minimum of eight characters; must be renewed if there is the least concern that they may have been compromised and, possibly, periodically (every six months or once a year) and must include a minimum of three of the four kinds of characters (capital letters, lower case letters, numerals and special characters); when a password is changed, the last five passwords may not be reused; the same password should not be used for different accesses; passwords should not be related to one's personal information (including name or date of birth.). Define a maximum number of attempts beyond which a warning is issued and authentication is blocked (temporarily or until it is manually unblocked).",
+        "name": "Salasõna",
+        "description": "Salasõnad koosnevad vähemalt kaheksast tähemärgist; peavad olema uuendatud kui esineb kahtlus, et nad võivad olla ohustatud ja võimaluse korras perioodiliselt (iga kuue kuu tagant või kord aastas) ning peavad sisaldama vähemalt kolme tähmärki neljast sordist (suurtähed, väiketähed, numbrid ja erilised tähemärgid); kui salasõna muudetakse ei tohi viimaseid viit salasõna taaskasutada; sama salasõna ei tohi kasutada erinevate ligipääsude puhul; salasõnad ei tohiks olla seotud isiku isiklike andmetega (st nimi või sünniaasta). Määratle maksimaalne katsete arv, mida ületades esineb hoiatus ning autentimine blokeeritud  (ajutisel või kuni blokeering manuaalselt eemaldatud).",
         "source" : "Mesure_US"
       },
       "PIA_DEF_AUTH": {
-        "name": "Authentication",
-        "description": "Every person with legitimate access to personal data (employees, contracting parties and other third parties) should be identified by a unique identifier. Choose an authentication method to open sessions that is appropriate to the context, the risk level and the robustness expected. Recommendations: if the risks are not elevated, a password may be used; however, if the risks are higher, use a one-time password token but change the default activation password, or, when part of the password is sent by SMS, a card with a PIN code, an electronic certificate or any other form of strong authentication.",
+        "name": "Autentimine",
+        "description": "Kõik isikud õigustatud ligipääsuga isikuandmetele (töötajad, lepingupooled ja kolmandad isikud) peaksid olema tuvastatud ainulaadse identifikaatori poolt. Vali autentimise meetod, et avada sessioonid, mis on sobivad võttes arvesse konteksti, riski taseme ja eeldatavat robustsust. Soovitused: kui ei esine kõrgendatud riske võib kasutada salasõna; kuid, kui riskid on kõrgemad tuleb kasutada ühekordset salasõna ning tuleb muuta default aktiveerimissalasõna või kui  osa salasõnast saadetakse SMS-iga, kaart koos PIN koodiga, elektrooniline sertifikaat või ükskõik milline teine tugev autentimise meede.",
         "source": "Mesures_US Logical Access Control"
       },
       "PIA_DEF_LOG": {
