@@ -562,13 +562,13 @@
         "source": "Mesures_US Logical Access Control"
       },
       "PIA_DEF_LOG": {
-        "name": "Surveillance",
-        "description": "Set up a logging architecture to allow early detection of incidents involving personal data and to have information that can be used to analyze them or provide proof in connection with investigations.",
+        "name": "Järelevalve",
+        "description": "Seadista logimise arhitektuur, mis võimaldab isikuandmetega seotud juhtumite varajast avastamist ning võimaldav saada teavet, mida saab kasutada selliste juhtumite analüüsimisel või tõendeid uurimistegevuse jaoks esitada.",
         "source": "Mesures_US Surveillance"
       },
       "PIA_DEF_ARCH": {
-        "name": "Archiving",
-        "description": "Procedures preserving and managing the electronic archives containing the personal data intended to ensure their value (specifically, their legal value) throughout the entire period necessary (transfer, storage, migration, accessibility, elimination, archiving policy, protection of confidentiality, etc.).",
+        "name": "Arhiveerimine",
+        "description": "Protseduurid, mis säilitavad ja haldavad elektroonilisi arhiive, mis sisaldavad nende väärtust tagavaid isikuandmeid (eriti õiguslikku väärtust) kogu vajaliku perioodi vältel (ülekandmine, hoiustamine, migratsioon, ligipääs, eemaldamine, arhiveerimispoliitika, konfidentsiaalsuse kaitse, jne).",
         "source": "Mesures_USE Archiving"
       },
       "PIA_DEF_MIN1": {
