@@ -637,23 +637,23 @@
         "source": "GDPR Art. 4.8 and 29"
       },
       "PIA_DEF_RGPD": {
-        "name": "GDPR (General Data Protection Regulation",
-        "description": "Regulation on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.",
-        "source": "GDPR title"
+        "name": "GDPR (isikuandmete kaitse üldmäärus",
+        "description": "Regulatsioon, mis käsitleb füüsiliste isikute kaitset seoses iskuandmete töötlemisega ja selliste andmete vaba liikumisega ja direktiivi 95/46/EÜ kehtetuks tunnistamisega.",
+        "source": "GDPR tiitel"
       },
       "PIA_DEF_PC": {
-        "name": "Data subject",
-        "description": "Persons to whom the data covered by the processing relate.",
+        "name": "Andmesubjekt",
+        "description": "Isikud, kellega seonduvad töödeldavad andmed.",
         "source": "PIA1 p9"
       },
       "PIA_DEF_MIN3": {
-        "name": "Reducing the identifying nature of data",
-        "description": "The system can ensure that: <br>- the user can use a resource or service without the risk of disclosing his/her identity (anonymous data)<br>- the user can use a resource or service without the risk of disclosing his/her identity, but remain identifiable and responsible for this use (pseudonymous data)<br>- the user can make multiple uses of resources or services without the risk of these different uses being linked together (data cannot be correlated)<br>- the user can use a resource or service without the risk of others, third parties in particular, being able to observe that the resource or service is being used (non-observability)<br>The choice of a method from the list above must be made on the basis of the threats identified. For some types of threat to privacy, pseudonymization will be more appropriate than anonymisation (for example, if there is a traceability need). In addition, some threats to privacy will be addressed using a combination of methods.",
+        "name": "Andmete identifitseeritava olemuse vähendamine",
+        "description": "Süsteem saab kindlustada, et : <br>- kasutaja saab kasutada ressurssi või teenust ilma oma riskita oma identiteeti avalikustada (anonüümsed andmed)<br>- kasutaja saab kasutada ressurssi või teenust ilma oma riskita oma identiteeti avalikustada, kuid võib olla tuvstatav ja vastutav selle kasutamise eest (pseudonüümsed andmed)<br>- kasutaja saab ressursse või teenuseid mitmel otstarbel kasutada ilma riskita, et neid erinevaid kasutusviise oleks võimalik omavahel siduda (andmeid ei saa korreleerida)<br>- kasutaja saab kasutada ressurssi või teenust ilma ohuta, et keegi teine eelkõige kolmandad isikud saaksid jälgida, et ressurssi või teenust kasutatakse (mitte-jälitavus)<br>Eespool loetletud meetodi valik tuleb teha tuvastatud ohtude põhjal. Mõne ohu puhul eraelu puutumatusele on pseudonümiseerimine sobivam kui anonüümseks muutmine (nt, kui on vajadus jälgitavusele). Lisaks käsitletakse mõnda ohtu eraelu puutumatusele meetodeid kombineerides.",
         "source" : "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN4": {
-        "name": "Reducing data accumulation",
-        "description": "The system can be organised into independent parts with separate access control functions. The data can also be divided between these independent sub-systems and controlled by each sub-system using different access control mechanisms. If a sub-system is compromised, the impacts on all of the data can thus be reduced.",
+        "name": "Andmete kogumise vähendamine",
+        "description": "Süsteemi saab jagada eraldiseisvateks osadeks eraldi juurdepääsuga kontrolli funktsioonidele. Anmeid saab ka jagada iseseisvate allsüsteemide vahel ja kontrollida iga allsüsteemifa kasutades erinevaid juurdepääsu kontrollmehhanisme. Kui allsüsteem on ohustatud, siis võib mõju vähendada ülejäänud andmetel.",
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN5": {
