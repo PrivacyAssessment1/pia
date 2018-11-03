@@ -657,23 +657,23 @@
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN5": {
-        "name": "Restricting data access",
-        "description": "The system can limit data access according to the \"need to know\" principle. The system can separate the sensitive data and apply specific access control policies. The system can also encrypt sensitive data to protect their confidentiality during transmission and storage. Access to temporary cookies which are produced during the data processing must also be protected.",
+        "name": "Andmetele juurdepääsu piiramine",
+        "description": "Süsteem saab piirata juurdepääsu vastavalt \"vaja teada\" põhimõttele. Süsteem saab eristada tundlikud andmed ning rakendada konkreetseid juurdepääsu kontrollimise eeskirju. Süsteem saab ka krüpteerida tundlikud andmed, et kaitsta nende konfidentsiooalsust edastamise ja salvestamise vältel. Samuti tuleb kaitsta juurdepääs andmetöötluse käigus toodetud ajutistele küspsistele.",
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_EX_DCPC": {
-        "name": "Common personal data",
-        "description": "<strong>Identification data</strong> : Civil status, identity, age, etc. <br><strong>Personal life</strong> : living habits, marital status, etc. <br><strong>Professional life </strong> : résumé, education and professional training, awards, etc. <br><strong>Connection data </strong> : IP addresses, event logs, etc.<br><strong>Location data</strong> : travels, GPS data, GSM data, etc.<br><strong>Others</strong> : phone number, email address, etc.",
+        "name": "Ühised isikuandmed",
+        "description": "<strong>Andmete tuvastamine</strong> : tsiviilstaatus, identiteet, vanus, jne. <br><strong>eraelu</strong> : elamisharjumused, perekonnaseis, jne. <br><strong>Kutseline elu</strong> : resümee, haridus ja professionaalne koolitus, auhinnad, jne. <br><strong>Ühendavad andmed </strong> : IP aadressid, sündmuste logid, jne.<br><strong>Asukoha andmed</strong> : reisid, GPS-i andmed, GSM andmed, jne.<br><strong>Muu</strong> : telefoni number, emaili aadress, jne.",
         "source": "PIA2 old version - WIKI"
       },
       "PIA_EX_DCPS": {
-        "name": "Personal data perceived as sensitive",
-        "description": "Social security number (NIR), biometric data, bank data",
+        "name": "Isikuandmed, mida peetakse tundlikuks ",
+        "description": "Isikukood, biomeetrilised andmed, panga andmed",
         "source": "PIA2 old version - WIKI"
       },
       "PIA_EX_DCPR": {
-        "name": "Convictions and sensitive personal data",
-        "description": "Philosophical, political, religious and trade-union views, sex life, health data, racial or ethnic origin, data concerning health or sex life, offenses, convictions, security measures, see <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 9 and 10 of [GDPR]</a>.",
+        "name": "Süüdimõistmised ja tundlikud isikuandmed ",
+        "description": "Filosoofilised- poliitilised- usu- ja ametiühingu vaated, seksuaalelu, terviseandmed, rassiline või etniline päritolu, andmed tervise või seksuaalelu kohta, süüteod, süüdimõistmised, julgeolekumeetmed, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 9 and 10 of [GDPR]</a>.",
         "source": "PIA2 old version, GDPR Article 9 and 10 - WIKI"
       },
       "PIA_EX_HUMI": {
