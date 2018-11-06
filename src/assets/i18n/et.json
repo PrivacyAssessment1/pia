@@ -398,27 +398,27 @@
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_SEC_PROT": {
-        "placeholder": "Indicate here means to avoid to limit non-human sources of risks.",
-        "name": "Protecting against non-human sources of risks",
-        "description": "Policies describing the means of fire prevention, detection and fighting. Where applicable, indicate the means of preventing water damage. Also specify the means of power supply monitoring and relief.",
+        "placeholder": "Indicate here means to avoid to limit non-human sources of risks.",#"Näidake siin meetodid hoidumaks või piiramaks mitte-inimtekkelistest riskidest.",
+        "name": "Protecting against non-human sources of risks",#"Kaitse mitte-inimpäritolu riskide eest",
+        "description": "Policies describing the means of fire prevention, detection and fighting. Where applicable, indicate the means of preventing water damage. Also specify the means of power supply monitoring and relief.",#"Tulekahju ärahoidmise, avastamise ja tõrjumise meetmed. Kui asjakohane, märkige veekahjustuse ennetamise meetmed. Samuti täpsustage elektrivarustuse jälgimise ja tagamise meetmed.",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_ORG_ORG": {
-        "placeholder": "Indicate if the roles and responsibilities for data protection are defined.",
-        "name": "Organisation",
-        "description": "Specify whether a person is responsible for the enforcement of privacy laws and regulations. Specify whether there is a monitoring committee (or equivalent) responsible for the guidance and follow-up of actions concerning the protection of privacy.",
+        "placeholder": "Indicate if the roles and responsibilities for data protection are defined.",#"Näidake kas andmekaitserollid ja -vastutus on määratletud.",
+        "name": "Organisation",#"Organisatsioon",
+        "description": "Specify whether a person is responsible for the enforcement of privacy laws and regulations. Specify whether there is a monitoring committee (or equivalent) responsible for the guidance and follow-up of actions concerning the protection of privacy.",#"Täpsustage kas keegi isiklikult on vastutav privaatsust puudutava seadusandluse rakendamise eest. Täpsustage, kas oragnisatsioonis on privaatsuskaitse seire komitee (või samaväärne), mis vastutaks juhiste andmise ja järelkontrolli eest.",
         "source": "PIAF Connected Objects p24 - WIKI"
       },
       "PIA_ORG_POL": {
-        "placeholder": "Describe here the documentary base setting out data protection objectives and rules.",
-        "name": "Policy",
-        "description": "Set out important aspects relating to data protection within a documentary base making up the data protection policy and in a form suited to each type of content (risks, key principles to be followed, target objectives, rules to be applied, etc.) and each communication target (users, IT department, policymakers, etc.).",
+        "placeholder": "Describe here the documentary base setting out data protection objectives and rules.",#"Kirjeldage siin andmekaitse eesmärke ja reegleid sätestavaid õigusakte.",
+        "name": "Policy",#"Meetodid",
+        "description": "Set out important aspects relating to data protection within a documentary base making up the data protection policy and in a form suited to each type of content (risks, key principles to be followed, target objectives, rules to be applied, etc.) and each communication target (users, IT department, policymakers, etc.).",#"Tooge välja olulised andmekaitseaspektid seoses õiguslike alustega, mis määravad igale aspektile sobivad meetmed (ohud, aluspõhimõtted mida järgida, eesmärgid, rakendatavad reeglid jne.) igale sihtrühmale (kasutajad, infotehnoloogiaosakond, meetmete kujundajad jt.).",
         "source": "PIA3 p78 - WIKI"
       },
       "PIA_ORG_RMGT": {
-        "placeholder": "Describe here processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects.",
-        "name": "Managing privacy risks",
-        "description": "Policy describing processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects (building a map of the risks, etc.).",
+        "placeholder": "Describe here processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects.",#"Kirjeldage siin rakendatavaid andmekaitsele ja isikuandmetele tekkivate ohtude ohjemeetmeid.",
+        "name": "Managing privacy risks",#"Isikuandmeriskide ohjamine",
+        "description": "Policy describing processes to control the risks that processing operations performed by the organisation pose on data protection and the privacy of data subjects (building a map of the risks, etc.).",#"Meetmed, millega ohjatakse käitleva organisatsiooni tegevusega andmekaitsele ja isikuandmetele põhjustatavaid ohte (ohtude kaardistamine jne.)",
         "source": "PIA3 p77 - WIKI"
       },
       "PIA_ORG_PBD": {
