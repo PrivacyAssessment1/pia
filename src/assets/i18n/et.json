@@ -422,63 +422,63 @@
         "source": "PIA3 p77 - WIKI"
       },
       "PIA_ORG_PBD": {
-        "placeholder": "Describe here how privacy protection is integrated in projects",
-        "name": "Integrating privacy protection in projects",
-        "description": "Existence of a policy designed integrate the protection of personal data in all new processing operations.",
+        "placeholder": "Describe here how privacy protection is integrated in projects",#"Kirjeldage siin kuidas isikuandmete kaitse on lõimitud tegevustesse",
+        "name": "Integrating privacy protection in projects",#"Isikuandmete kaitse lõimimine tegevustesse",
+        "description": "Existence of a policy designed integrate the protection of personal data in all new processing operations.",#"Isikuandmete kaitse kõigisse uutesse tegevustesse lõimimise meetmete olemasolu.",
         "source": "PIA3 p79 - WIKI"
       },
       "PIA_ORG_VIOL": {
-        "placeholder": "Indicate here whether IT incidents are subject to a documented and tested management procedure.",
-        "name": " Managing personal data violations",
-        "description": "Existence of an operational organisation that can detect and treat incidents that may affect the data subjects' civil liberties and privacy.",
+        "placeholder": "Indicate here whether IT incidents are subject to a documented and tested management procedure.",#"Näidake siin, kas IT vahejuhtumeid käsitletakse kirjalikes ja katsetatud juhtimismenetlustes.",
+        "name": " Managing personal data violations",#"Isikuandmetega seotud rikkumiste menetlus",
+        "description": "Existence of an operational organisation that can detect and treat incidents that may affect the data subjects' civil liberties and privacy.",#"Teovõimelise üksuse olemasolu, mis suudab tuvastada ja menetleda vahejuhtumeid, mis võivad mõjutada andmesubjektide põhiõigusi ja privaatsust.",
         "source": "PIAF Connected Objects p24 and PIA3 p36 - WIKI"
       },
       "PIA_ORG_PERS": {
-        "placeholder": "Indicate here what awareness-raising controls are carried out with regard to employees.",
-        "name": "Personnel management",
-        "description": "Existence of a policy describing awareness-raising controls are carried out with regard to a new recruit and what controls are carried out when persons who have been accessing data leave their job.",
+        "placeholder": "Indicate here what awareness-raising controls are carried out with regard to employees.",#"Näidake, kas töötajate hulgas toimuvad teadlkikkust tõstvad tegevused.",
+        "name": "Personnel management",#"Personalijuhtimine",
+        "description": "Existence of a policy describing awareness-raising controls are carried out with regard to a new recruit and what controls are carried out when persons who have been accessing data leave their job.",#"Teadlikkust tõstavate meetmete olemasolu, mida kasutatakse töölesaabujate puhul ning olukorras, kus töölt lahkub töötaja, kel oli andmetele juurdepääs.",
         "source": "PIAF Connected Objects p24"
       },
       "PIA_ORG_EXT": {
-        "placeholder": "Indicate here, for processors requiring access to data, the security controls and arrangements carried out as regards such access.",
-        "name": "Relations with third parties",
-        "description": "Existence of a policy and processes reducing the risk that legitimate access to personal data by third parties may pose to the data subjects' civil liberties and privacy.",
+        "placeholder": "Indicate here, for processors requiring access to data, the security controls and arrangements carried out as regards such access.",#"Näidake siin turvakontroll ja -meetmed, mida rakendatakse töötlejale, kellelt eeldatakse juurdepääsu andmetele.",
+        "name": "Relations with third parties",#"Suhted kolmandate osapooltega",
+        "description": "Existence of a policy and processes reducing the risk that legitimate access to personal data by third parties may pose to the data subjects' civil liberties and privacy.",#"Meetmete ja tegevuste olemasolu, mis vähendavad ohteandmesubjektide põhiõigustele ja isikuandmetele  tulenevalt kolmandate isikute õiguspärasest juurdepääsust andmetele.",
         "source":  "PIA3 p48 - WIKI"
       },
       "PIA_ORG_AUD": {
-        "placeholder": "Indicate here whether the effectiveness and adequacy of privacy controls are monitored.",
-        "name": "Supervision",
-        "description": "Existence of a policy and processes to obtain an organisation able to manage and control the protection of personal data held within it.",
+        "placeholder": "Indicate here whether the effectiveness and adequacy of privacy controls are monitored.",#"Näidake siin kas isikuandmete kaitse meetmete tõhusust ja sobivust seiratakse.",
+        "name": "Supervision",#"Järelvalve",
+        "description": "Existence of a policy and processes to obtain an organisation able to manage and control the protection of personal data held within it.",#"Meetmete ja tegevuste olemasolu, mis võimaldavad organisatsioonil juhtida ja tagada tema poolt käideldavate isikuandmete kaitset.",
         "source":  "PIA3 p76 - WIKI"
       },
       "PIA_DEF_EXA": {
-        "name": "Quality of data",
-        "description": "Personal data shall be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’). <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 5.1 d) of [GDPR]</a>",
-        "source": "GDPR Art. 5.1 d)"
+        "name": "Quality of data",#"Andmete kvaliteet",
+        "description": "Personal data shall be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’). <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 5.1 d) of [GDPR]</a>",#"Isikuandmed peavad olema õiged ja kui vajalik kaasajastatud; tarvitusele peab olema võetud kõik mõistlikud meetmed, et ebaõiged andmed oleks viivituseta eemaldatud või parandatud lähtudes andmete käitluse eesmärgist (õigsus). <br>Vaata <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 5.1 d) of [GDPR]</a>",
+        "source": "GDPR Art. 5.1 d)"#"Üldmääruse art.5.1 d)"
       },
       "PIA_DEF_MES": {
-        "name": "Measures",
-        "description": "To be chosen among those available in section \"Planned or existing measures\", which you may complete if needed.",
-        "source": "None"
+        "name": "Measures",#"Meetmed",
+        "description": "To be chosen among those available in section \"Planned or existing measures\", which you may complete if needed.",#"Valige \"Kavandatavad või olemasolevad meetmed"\ osast etteantud meetmete hulgast, kuhu saate juurde lisada kui see peaks olema vajalik.",
+        "source": "None"#"Puudub"
       },
       "PIA_DEF_RT": {
-        "name": "Controller",
-        "description": "Natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.<br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.7 of [GDPR]</a>",
-        "source": "GDPR Art. 4.7"
+        "name": "Controller",#"Revident",
+        "description": "Natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.<br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.7 of [GDPR]</a>",#"Füüsiline või juriidiline isik, avalik-õiguslik isik, amet või muu üksus, üksi või koos teistega, määrab isikuandmete käitluse eesmärgid ja vahendid; kui eesmärgid ja vahendid selliseks käitluseks on määratud Euroopa Liidu liikmesriigi õigusega, siis revident või spetsiifilised tingimused tema nimetamiseks peavad olema määratud Euroopa liidu liikmestiigi õigusega.<br>Vaata <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.7 of [GDPR]</a>",
+        "source": "GDPR Art. 4.7"#"Üldmääruse art. 4.7"
       },
       "PIA_DEF_DCP": {
-        "name": "Personal data",
-        "description": "Any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.1 of [GDPR]</a>",
-        "source": "GDPR Art 4.1"
+        "name": "Personal data",#"Isikuandmed",
+        "description": "Any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.1 of [GDPR]</a>",#"Igasugune teave, mis on seotud tuvastatud või tuvastatava füüsilise isikuga ('andmesubjekt'); tuvastatav isik on see, keda saab tuvastada, otseselt või kaudselt, eelkõige viitega identifikaatorile nagu nimi, isikukood, asukohanamded, tuvastusnumber arvutivõrgus või ühe või rohkem kui ühe faktori, mis on spetsiifiline selle füüsilise isiku füüsilisele, psühholoogilisele, geneetilisele, vaimsele, majanduslikule, kultuurilisele või sotsiaalsele identiteedile. <br>Vaata <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.1 of [GDPR]</a>",
+        "source": "GDPR Art 4.1"#"Üldmääruse art. 4.1"
       },
       "PIA_DEF_DEST": {
-        "name": "Recipient",
-        "description": "Natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.9 of [GDPR]</a>",
-        "source": "GDPR Art. 4.9"
+        "name": "Recipient",#"Vastuvõtja",
+        "description": "Natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing. <br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.9 of [GDPR]</a>",#"Füüsiline või juriidiline isik, riigiasutus, amet või muu üksus, millele isikuandmeid avaldatakse kas kolmanda isikuna või mitte. Vaatmata sellele, riigiasutust, mis saab isikuandmeid konkreetse päringu raames kooskõlas Euroopa Liidu liikmesriigi õigusega, ei loeta vastuvõtjaks; selle teabe käitlus selle riigiasutuse poolt peab olema vastavuses kohalduvate andmekaitsereeglitega tulenevalt andmete käitluse eesmärkidest. <br>Vaata <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.9 of [GDPR]</a>",
+        "source": "GDPR Art. 4.9"#"Üldmääruse art. 4.9"
       },
       "PIA_DEF_SUPT": {
-        "name": "Supporting assets",
-        "description": "Asset on which personal data rely. This may be hardware, software, networks, people, paper or paper transmission channels",
+        "name": "Supporting assets",#"Toetavad vahendid"
+        "description": "Asset on which personal data rely. This may be hardware, software, networks, people, paper or paper transmission channels",#"Vahendid, millest isikuandmed sõltuvad. Need võivad olla riistvara, võrgud, inimesed, paber või paberi edasiandmise kanalid",
         "source": "PIA1 p10"
         },
       "PIA_DEF_MINC": {
