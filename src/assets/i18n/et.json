@@ -314,40 +314,40 @@
         "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_TEC_PAP": {
-        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of paper documents, which ones and for what purpose.",
-        "name": "Paper document security",
-        "description": "Where paper documents containing data are used during the processing, indicate here how they are printed, stored, destroyed and exchanged.",
-        "source": "PIAF Connected Objects p22"
+        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of paper documents, which ones and for what purpose.",#"Näidake kas on rakendatud paberdokumentide terviklikkuse seire meetmed, millised ja mis eesmärgil.",
+        "name": "Paper document security",#"Paberdokumentide turvalisus",
+        "description": "Where paper documents containing data are used during the processing, indicate here how they are printed, stored, destroyed and exchanged.",#"Näidake kuidas paberdokumente välja trükitakse, säilitatakse, hävitatakse ja asendatakse kui neid kasutatakse tegevuse käigus.",
+        "source": "PIAF Connected Objects p22"#"Üldmääruse art 22"
       },
       "PIA_TEC_MINI": {
-        "placeholder": "Indicate here means implemented to reduce the severity of risks by limiting the amount of personal data",
-        "name": "Minimising the amount of personal data",
-        "description": "The following methods could be used : Filtering and removal, Reducing sensitivity via conversion, Reducing the identifying nature of data, Reducing data accumulation, Restricting data access",
-        "source": "PIAF Connected Objects p40"
+        "placeholder": "Indicate here means implemented to reduce the severity of risks by limiting the amount of personal data",#"Näidake siin isikuandmete kasutamise piiramise meetmeid, mida rakendatakse riskide tõsiduse vähendamiseks",
+        "name": "Minimising the amount of personal data",#"Isikuandmete koguse minimeerimine",
+        "description": "The following methods could be used : Filtering and removal, Reducing sensitivity via conversion, Reducing the identifying nature of data, Reducing data accumulation, Restricting data access",#"Kasutada võib järgnevaid meetmeid: väljasõelumine ja eemaldamine, muutmisega tundlikkuse vähendamine, tuvastava loomuse vähendamine, andmete hajutamine, andmetele juurdepääsu piiramine",
+        "source": "PIAF Connected Objects p40"#"Üldmääruse art 40"
       },
       "PIA_SEC_EXP": {
-        "placeholder": "Describe here how the software updates (operating systems, applications, etc.) and application of security corrective controls patches are carried out.",
-        "name": "Operating security",
-        "description": "Policies implemented to reduce the possibility and the impact of risks on assets supporting personal data.",
-        "source": "PIAF Connected Objects p22 - WIKI"
+        "placeholder": "Describe here how the software updates (operating systems, applications, etc.) and application of security corrective controls patches are carried out.",#"Kirjeldage siin tarkvarauuendusi (operatsioonisüsteemidele, rakendustele jt.) ja turvaaukude sulgemist.",
+        "name": "Operating security",#"Toimeturvalisus",
+        "description": "Policies implemented to reduce the possibility and the impact of risks on assets supporting personal data.",#"Isikuandmeid säilitavate vahenditele rakendatud meetodid vähendamaks riskide tõenäosust ja mõju.",
+        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_SEC_MAL": {
-        "placeholder": "Describe here the controls implemented to reduce risks while accessing less secure networks.",
-        "name": "Clamping down on malicious software",
-        "description": "Controls implemented on workstations and servers to protect them from malicious software while accessing less secure networks.",
-        "source": "PIAF Connected Objects p22 - WIKI"
+        "placeholder": "Describe here the controls implemented to reduce risks while accessing less secure networks.",#"Kirjeldage siin meetmeid, millega vähendatakse vähemturvaliste võrkudega suhtlemisel tekkivat riski.",
+        "name": "Clamping down on malicious software",#"Pahavara tõkestamine",
+        "description": "Controls implemented on workstations and servers to protect them from malicious software while accessing less secure networks.",#"Tööjaamades ja serverites rakendatavad meetmed kaitsmaks neid pahavara eest vähemturvaliste võrkudega suhtlemisel.",
+        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_SEC_COMP": {
-        "placeholder": "Describe here the controls implemented on workstations",
-        "name": "Managing workstations",
-        "description": "Controls implemented on workstations (automatic locking, regular updates, configuration, physical security, etc.) to reduce the possibility to exploit software properties (operating systems, business applications etc.) to adversely affect personal data.",
-        "source": "PIAF Connected Objects p22 - WIKI"
+        "placeholder": "Describe here the controls implemented on workstations",#"Kirjeldage siin tööjaamade kaitseks rakendatavaid meetmeid",
+        "name": "Managing workstations",#"Tööjaamade haldus",
+        "description": "Controls implemented on workstations (automatic locking, regular updates, configuration, physical security, etc.) to reduce the possibility to exploit software properties (operating systems, business applications etc.) to adversely affect personal data.",#"Tööjaamade kaitseks rakendatud meetmed (automaatne lukustumine, korrapärased tarkvarauuendused, konfiguratsioon, füüsiline turvalisus jms.) vähendamaks tarkvara kuritarvitamist (operatsioonisüsteemid, ärirakendused jms.) isikuandmete kahjulikuks mõjutamiseks.",
+        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_SEC_WEB": {
-        "placeholder": "Indicate here controls implemented to protect websites.",
-        "name": "Website security",
-        "description": "Implementation of ANSSI's Recommendations for securing websites.",
-        "source": "PIAF Connected Objects p22 - WIKI"
+        "placeholder": "Indicate here controls implemented to protect websites.",#"Näidake rakendatud võrgulehekülgede kaitsemeetemid.",
+        "name": "Website security",#"Võrgulehekülgede turvalisus",
+        "description": "Implementation of ANSSI's Recommendations for securing websites.",#"ANSSI (Prantsuse rahvuslik andmeturbeagentuur) soovituste rakendamine võrgulehekülgede kaitseks.",
+        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_SEC_BKP": {
         "placeholder": "Indicate here how backups are managed. Clarify whether they are stored in a safe place.",
