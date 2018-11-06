@@ -298,20 +298,20 @@
       "PIA_TEC_CTLA": {
         "placeholder": "Indicate here how users profiles are defined and attributed.",#"Näidake siin kuidas kasutajaprofiilid moodustatud ja omistatud"
         "name": "Logical access control",#"Loogiline juurdepääsu kontroll"
-        "description": "Methods to define and attribute users profiles. Specify the <strong>authentication</strong> means implemented . Where applicable, specify the rules applicable to passwords (minimum length, required characters, validity duration, number of failed attempts before access to account is locked, etc.).",
-        "source": "PIAF Connected Objects p21"
+        "description": "Methods to define and attribute users profiles. Specify the <strong>authentication</strong> means implemented . Where applicable, specify the rules applicable to passwords (minimum length, required characters, validity duration, number of failed attempts before access to account is locked, etc.).",#"Kasutajakontode moodustamise ja omistamise meetodid. Täpsustage milliseid <strong>authentication</strong> meetmeid kasutatakse. Kui asjakohane, tooge välja salasõnadele kehtivad reeglid (vähim pikkus, nõutavad koostisosad, kehtivusaeg, ebaõnnestunud autentimiskordade arv, kuni juurdepääs lukustatakse jms.).",
+        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
       },
       "PIA_TEC_LOG": {
-        "placeholder": "Indicate here whether events are logged and how long these traces are stored for.",
-        "name": "Traceability (logging)",
-        "description": "Policies that define traceability and log management.",
-        "source": "PIAF Connected Objects p22"
+        "placeholder": "Indicate here whether events are logged and how long these traces are stored for.",#"Näidake siin kas sündmusi logitakse ja kui kaua neid logisid säilitatakse.",
+        "name": "Traceability (logging)",#"Järgitavus (logimine)",
+        "description": "Policies that define traceability and log management.",#"Järgitavust ja logide käitlust määravad meetmed.",
+        "source": "PIAF Connected Objects p22"#Üldmääruse art 22"
       },
       "PIA_TEC_ARCH": {
-        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of stored data, which ones and for what purpose.",
-        "name": "Archiving",
-        "description": "Where applicable, describe here the processes of archive management (delivery, storage, consultation, etc.) under your responsibility. Specify the archiving roles (offices of origin, transferring agencies, etc.) and the archiving policy. State if data may fall within the scope of public archives.",
-        "source": "PIAF Connected Objects p22 - WIKI"
+        "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of stored data, which ones and for what purpose.",#"Näidake siin kas kasutatakse säilitatavate andmete terviklikkuse kontrollimise meetmeid, milliseid ja millisel eesmärgil.",
+        "name": "Archiving",#"Arhiveerimine",
+        "description": "Where applicable, describe here the processes of archive management (delivery, storage, consultation, etc.) under your responsibility. Specify the archiving roles (offices of origin, transferring agencies, etc.) and the archiving policy. State if data may fall within the scope of public archives.",#"Kui asjakohane, siis kirjeldage arhiivihalduse tegevusi (vastuvõtt, säilitamine, päringud jt.) mille eest vastutate. Määratlege arhiveerimisrollid (looja, vahendaja jt.) ja arhiveerimismeetodid. Märkige kui andmed võivad sattuda avalikku arhiivi.",
+        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
       },
       "PIA_TEC_PAP": {
         "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of paper documents, which ones and for what purpose.",
