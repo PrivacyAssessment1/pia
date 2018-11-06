@@ -281,120 +281,120 @@
         "placeholder": "Describe here the means implemented for ensuring the confidentiality of data",#"Kirjeldage siin kasutatavaid meetmeid, et tagada andmete turvalisus" 
         "name": "Encryption",#"Krüpteerimine"
         "description": "Means implemented for <strong>ensuring the confidentiality</strong> of data stored (in the database, in flat files, backups, etc.), as well as the procedure for managing encryption keys (creation, storage, change in the event of suspected cases of data compromise, etc.).<br> Describe the encryption means employed for data flows (VPN, TLS, etc.) implemented in the processing.",#"Kasutuselevõetud meetmed, et <strong> säilitatud andmed (andmebaasis, tagavarakoopias jm), samuti krüpteerimisvõtmete haldus (loomine, säilitamine, muutmine andmete kompromiteerimise kahtluse korral jne).<br> Kirjeldage andmevoole rakendatud krüteerimismeetmeid (VPN, TLS jt) kasutatud andmetöötlusel."
-        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
+        "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_ANO": {
         "placeholder": "Indicate here implemented anonymisation mechanisms",#"Näidake siin kasutatavaid anonümiseerimise mehhanisme"
         "name": "Anonymisation",#"Anonümiseerimine"
         "description": "Indicate here whether anonymisation mechanisms are implemented, which ones and for what purpose. <br>Remember to clearly distinguish between anonymous and pseudonymous data.",#"Näidake siin kas anonümiseerimise meetmed on kasutusele võetud, kui on, siis millised ja milleks. <br>Ärge unustage selgelt eristada anaonüümseid ja pseudoanonüümseid andmeid."
-        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
+        "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_CLO": {
         "placeholder": "Indicate here if processing partitioning is planned, and how this is carried out.",#"Siin näidake ära kas eraldamine on kavandatud ja kuidas kuidas seda läbi viiakse"
         "name": "Partitioning data",#"Andmete eraldamine"
         "description": "Implementation of data partitioning helps to reduce the possibility that personal data can be correlated and that a breach of all personal data may occur.",#"Andmete eraldamine aitab vähendada isikuandmete kokkuviimise võimalust ja isikuandmete avalikukstulekut.",
-        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
+        "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_CTLA": {
         "placeholder": "Indicate here how users profiles are defined and attributed.",#"Näidake siin kuidas kasutajaprofiilid moodustatud ja omistatud"
         "name": "Logical access control",#"Loogiline juurdepääsu kontroll"
         "description": "Methods to define and attribute users profiles. Specify the <strong>authentication</strong> means implemented . Where applicable, specify the rules applicable to passwords (minimum length, required characters, validity duration, number of failed attempts before access to account is locked, etc.).",#"Kasutajakontode moodustamise ja omistamise meetodid. Täpsustage milliseid <strong>authentication</strong> meetmeid kasutatakse. Kui asjakohane, tooge välja salasõnadele kehtivad reeglid (vähim pikkus, nõutavad koostisosad, kehtivusaeg, ebaõnnestunud autentimiskordade arv, kuni juurdepääs lukustatakse jms.).",
-        "source": "PIAF Connected Objects p21"#"Üldmääruse art 21"
+        "source": "PIAF Connected Objects p21"
       },
       "PIA_TEC_LOG": {
         "placeholder": "Indicate here whether events are logged and how long these traces are stored for.",#"Näidake siin kas sündmusi logitakse ja kui kaua neid logisid säilitatakse.",
         "name": "Traceability (logging)",#"Järgitavus (logimine)",
         "description": "Policies that define traceability and log management.",#"Järgitavust ja logide käitlust määravad meetmed.",
-        "source": "PIAF Connected Objects p22"#Üldmääruse art 22"
+        "source": "PIAF Connected Objects p22"
       },
       "PIA_TEC_ARCH": {
         "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of stored data, which ones and for what purpose.",#"Näidake siin kas kasutatakse säilitatavate andmete terviklikkuse kontrollimise meetmeid, milliseid ja millisel eesmärgil.",
         "name": "Archiving",#"Arhiveerimine",
         "description": "Where applicable, describe here the processes of archive management (delivery, storage, consultation, etc.) under your responsibility. Specify the archiving roles (offices of origin, transferring agencies, etc.) and the archiving policy. State if data may fall within the scope of public archives.",#"Kui asjakohane, siis kirjeldage arhiivihalduse tegevusi (vastuvõtt, säilitamine, päringud jt.) mille eest vastutate. Määratlege arhiveerimisrollid (looja, vahendaja jt.) ja arhiveerimismeetodid. Märkige kui andmed võivad sattuda avalikku arhiivi.",
-        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
+        "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_TEC_PAP": {
         "placeholder": "Indicate here whether mechanisms are implemented for integrity monitoring of paper documents, which ones and for what purpose.",#"Näidake kas on rakendatud paberdokumentide terviklikkuse seire meetmed, millised ja mis eesmärgil.",
         "name": "Paper document security",#"Paberdokumentide turvalisus",
         "description": "Where paper documents containing data are used during the processing, indicate here how they are printed, stored, destroyed and exchanged.",#"Näidake kuidas paberdokumente välja trükitakse, säilitatakse, hävitatakse ja asendatakse kui neid kasutatakse tegevuse käigus.",
-        "source": "PIAF Connected Objects p22"#"Üldmääruse art 22"
+        "source": "PIAF Connected Objects p22"
       },
       "PIA_TEC_MINI": {
         "placeholder": "Indicate here means implemented to reduce the severity of risks by limiting the amount of personal data",#"Näidake siin isikuandmete kasutamise piiramise meetmeid, mida rakendatakse riskide tõsiduse vähendamiseks",
         "name": "Minimising the amount of personal data",#"Isikuandmete koguse minimeerimine",
         "description": "The following methods could be used : Filtering and removal, Reducing sensitivity via conversion, Reducing the identifying nature of data, Reducing data accumulation, Restricting data access",#"Kasutada võib järgnevaid meetmeid: väljasõelumine ja eemaldamine, muutmisega tundlikkuse vähendamine, tuvastava loomuse vähendamine, andmete hajutamine, andmetele juurdepääsu piiramine",
-        "source": "PIAF Connected Objects p40"#"Üldmääruse art 40"
+        "source": "PIAF Connected Objects p40"
       },
       "PIA_SEC_EXP": {
         "placeholder": "Describe here how the software updates (operating systems, applications, etc.) and application of security corrective controls patches are carried out.",#"Kirjeldage siin tarkvarauuendusi (operatsioonisüsteemidele, rakendustele jt.) ja turvaaukude sulgemist.",
         "name": "Operating security",#"Toimeturvalisus",
         "description": "Policies implemented to reduce the possibility and the impact of risks on assets supporting personal data.",#"Isikuandmeid säilitavate vahenditele rakendatud meetodid vähendamaks riskide tõenäosust ja mõju.",
-        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
+        "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_MAL": {
         "placeholder": "Describe here the controls implemented to reduce risks while accessing less secure networks.",#"Kirjeldage siin meetmeid, millega vähendatakse vähemturvaliste võrkudega suhtlemisel tekkivat riski.",
         "name": "Clamping down on malicious software",#"Pahavara tõkestamine",
         "description": "Controls implemented on workstations and servers to protect them from malicious software while accessing less secure networks.",#"Tööjaamades ja serverites rakendatavad meetmed kaitsmaks neid pahavara eest vähemturvaliste võrkudega suhtlemisel.",
-        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
+        "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_COMP": {
         "placeholder": "Describe here the controls implemented on workstations",#"Kirjeldage siin tööjaamade kaitseks rakendatavaid meetmeid",
         "name": "Managing workstations",#"Tööjaamade haldus",
         "description": "Controls implemented on workstations (automatic locking, regular updates, configuration, physical security, etc.) to reduce the possibility to exploit software properties (operating systems, business applications etc.) to adversely affect personal data.",#"Tööjaamade kaitseks rakendatud meetmed (automaatne lukustumine, korrapärased tarkvarauuendused, konfiguratsioon, füüsiline turvalisus jms.) vähendamaks tarkvara kuritarvitamist (operatsioonisüsteemid, ärirakendused jms.) isikuandmete kahjulikuks mõjutamiseks.",
-        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
+        "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_WEB": {
         "placeholder": "Indicate here controls implemented to protect websites.",#"Näidake rakendatud võrgulehekülgede kaitsemeetemid.",
         "name": "Website security",#"Võrgulehekülgede turvalisus",
         "description": "Implementation of ANSSI's Recommendations for securing websites.",#"ANSSI (Prantsuse rahvuslik andmeturbeagentuur) soovituste rakendamine võrgulehekülgede kaitseks.",
-        "source": "PIAF Connected Objects p22 - WIKI"#"Üldmääruse art 22 - WIKI"
+        "source": "PIAF Connected Objects p22 - WIKI"
       },
       "PIA_SEC_BKP": {
-        "placeholder": "Indicate here how backups are managed. Clarify whether they are stored in a safe place.",
-        "name": "Backups",
-        "description": "Policies and means implemented to ensure the availability and/or integrity of the personal data, while maintaining their confidentiality.",
+        "placeholder": "Indicate here how backups are managed. Clarify whether they are stored in a safe place.",#"Näidake siin kuidas käideldakse varukoopiaid. Täpsustage, kas neid hoitakse turvalises kohas.",
+        "name": "Backups",#"Varukoopiad",
+        "description": "Policies and means implemented to ensure the availability and/or integrity of the personal data, while maintaining their confidentiality.",#"Kasutavad meetodid ja vahendid, millega tagatakse isikuandmete kättesaadavus ja/või terviklikkus samaaegselt säilitades nende konfidentsiaalsust.",
         "source": "PIAF Connected Objects p23 & PIA3 p27  - WIKI"
       },
       "PIA_SEC_MAIN": {
-        "placeholder": "Describe here how physical maintenance of hardware is managed",
-        "name": "Maintenance",
-        "description": "Policies describing how physical maintenance of hardware is managed, stating whether this is contracted out.<br> Indicate whether the remote maintenance of apps is authorized, and according to what arrangements. Specify whether defective equipment is managed in a specific manner.",
+        "placeholder": "Describe here how physical maintenance of hardware is managed",#"Kirjeldage siin kuidas korraldatakse riistvara füüsilist hooldust",
+        "name": "Maintenance","Hooldus",
+        "description": "Policies describing how physical maintenance of hardware is managed, stating whether this is contracted out.<br> Indicate whether the remote maintenance of apps is authorized, and according to what arrangements. Specify whether defective equipment is managed in a specific manner.",#"Meetmed kirjeldamaks kuidas riistvara füüsilist hooldust korraldatakse märkides, kas seda tellitakse organisatsiooniväliselt lepingupartnerilt.<br> Näidake, kas on lubatud rakenduste kaughooldus ja kui on, siis milliste kokkulepete alusel. Täpsustage, kas rikkis riistvara käideldakse erilisel moel.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_CTR": {
-        "placeholder": "Describe here specific measures for processors (host, maintenance company, administrator, specialist service providers, etc.)",
-        "name": "Processing contracts",
+        "placeholder": "Describe here specific measures for processors (host, maintenance company, administrator, specialist service providers, etc.)",#"Kirjeldage siin erimeetmeid protsessiosalistele (serverimajutaja, hooldaja, administraator, eriteenuste pakkujad jt.)",
+        "name": "Processing contracts",#"Protsessiga seotud lepingud",
         "description": "TO BE TRANSLATED - Les données à caractère personnel communiquées à ou gérées par des sous-traitants doivent bénéficier de garanties suffisantes. <strong>Faire appel uniquement à des sous-traitants présentant des garanties suffisantes</strong> (notamment en termes de connaissances spécialisées, de fiabilité et de ressources). Exiger la communication par le prestataire de sa politique de sécurité des systèmes d’information. <br>Prendre et documenter les moyens (audits de sécurité, visite des installations, etc.) permettant d’<strong>assurer l’effectivité des garanties offertes par le sous-traitant<strong> en matière de protection des données. Ces garanties incluent notamment :<br> - le chiffrement des données selon leur sensibilité ou à défaut l’existence de procédures garantissant que la société de prestation n’a pas accès aux données qui lui sont confiées<br>- le chiffrement des transmissions de données (ex : connexion de type HTTPS, VPN, etc.)<br>- des garanties en matière de protection du réseau, de traçabilité (journaux, audits), de gestion des habilitations, d’authentification, etc.<br><strong>Prévoir un contrat avec les sous-traitants</strong>, qui définit notamment l’objet, la durée, la finalité du traitement et les obligations des parties. S’assurer qu’il contient en particulier des dispositions fixant :<br>- leur obligation en matière de confidentialité des données personnelles confiées<br>- des contraintes minimales en matière d’authentification des utilisateurs<br>- les conditions de restitution et/ou de destruction des données en fin du contrat<br>- les règles de gestion et de notification des incidents. Celles-ci devraient comprendre une information du responsable de traitement en cas de découverte de faille de sécurité ou d’incident de sécurité et cela dans les plus brefs délais lorsqu’il s’agit d’une violation de données à caractère personnel.<br>- Dans le cas de l’utilisation de fournisseur de cloud computing :<br>\t1. identifier clairement les données et les traitements qui passeront dans le cloud ;<br>\t2. définir ses propres exigences de sécurité technique et juridique ;<br>\t3. conduire une étude de risques afin d'identifier les mesures de sécurité appropriées ;<br>\t4. identifier le type de cloud pertinent pour le traitement envisagé ;<br>\t5. choisir un prestataire présentant des garanties suffisantes ;<br>\t6. revoir la politique de sécurité interne ;<br>\t7. surveiller les évolutions dans le temps.",
-        "source": "Mesures_US Procurement: identified and governed by a contract"
+        "source": "Mesures_US Procurement: identified and governed by a contract"#"Meetmed näidatud ja määratud lepinguga"
       },
       "PIA_SEC_NET": {
-        "placeholder": "Indicate here the security controls of network on which the processing is carried out",
-        "name": "Network security",
-        "description": "Depending on the type of network on which the processing is carried out (isolated, private or Internet). Specify which firewall system, intrusion detection systems or other active or passive devices are in charge of ensuring network security.",
+        "placeholder": "Indicate here the security controls of network on which the processing is carried out",#"Näidake siin turvameetmeid võrgus, kus anmdetöötlus toimub",
+        "name": "Network security","Võrguturvalisus",
+        "description": "Depending on the type of network on which the processing is carried out (isolated, private or Internet). Specify which firewall system, intrusion detection systems or other active or passive devices are in charge of ensuring network security.",#"Meetmed sõltuvad andmetöötluseks kasutatava võrgu tüübist (isoleeritud, privaatne või Internett). Täpsustage tulemüüri liik, ründe tuvastuse süsteemid või muud aktiivsed või passiivsed vahendid, mis vastutavad võrguturvalisuse eest.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_PHY": {
-        "placeholder": "Indicate here how physical access control is carried out regarding the premises accommodating the processing.",
-        "name": "Physical access control",
-        "description": "Policies to ensure physical security (zoning, escorting of visitors, wearing of passes, locked doors and so on).Indicate whether there are warning procedures in place in the event of a break-in.",
+        "placeholder": "Indicate here how physical access control is carried out regarding the premises accommodating the processing.",#"Näidake siin kuidas kontrollitakse füüsilist juurdepääsu andmetöötluse alale.",
+        "name": "Physical access control",#"Füüsilise juurdepääsu kontrollimine",
+        "description": "Policies to ensure physical security (zoning, escorting of visitors, wearing of passes, locked doors and so on).Indicate whether there are warning procedures in place in the event of a break-in.",#"Füüsilise turvalisuse tagamise meetmed (tsoneerimine, külastajate saatmine, sissepääsulubade kandmine, lukustatud uksed jne.). Näidake kas sissemurdmise tuvastamiseks kasutatakse häiresüsteemi.",
         "source": "PIAF Connected Objects p23"
       },
       "PIA_SEC_LOG": {
-        "placeholder": "Indicate here means and controls implemented to detect incidents involving personal data",
-        "name": "Monitoring network activity",
-        "description": "Monitor intrusion detection systems and intrusion prevention systems in order to analyze network (wired networks, Wi-Fi, radio waves, fiber optics, etc.) traffic in real time and detect any suspicious activity suggestive of a cyber attack scenario.",
+        "placeholder": "Indicate here means and controls implemented to detect incidents involving personal data",#"Näidake siin isikuandmetega juhtunud vahejuhtumite tuvastamise meetodid ja vahendid",
+        "name": "Monitoring network activity",#"Võrgutegevuse seire",
+        "description": "Monitor intrusion detection systems and intrusion prevention systems in order to analyze network (wired networks, Wi-Fi, radio waves, fiber optics, etc.) traffic in real time and detect any suspicious activity suggestive of a cyber attack scenario.",#"Seirake sissemurdmist tuvastavaid ja ennetavaid süsteeme, et analüüsida võrguliiklust (juhtmega võrgud, juhtmevabad võrgud, raadiolained, fiiberoptiline jne.) reaalajas tuvastamaks kahtlasi tegevusi, mis viitavad küberrünnakule.",
         "source": "PIA3 p67 - WIKI"
       },
       "PIA_SEC_MAT": {
-        "placeholder": "Indicate here the controls bearing on the physical security of servers and workstations",
-        "name": "Hardware security",
-        "description": "Indicate here the controls bearing on the physical security of servers and workstations (secure storage, security cables, confidentiality filters, secure erasure prior to scrapping, etc.).",
+        "placeholder": "Indicate here the controls bearing on the physical security of servers and workstations",#"Näidake siin meetmed, mis tagavad serverite ja tööjaamade füüsilise turvalisuse",
+        "name": "Hardware security",#"Riistvara turvalisus",
+        "description": "Indicate here the controls bearing on the physical security of servers and workstations (secure storage, security cables, confidentiality filters, secure erasure prior to scrapping, etc.).",#"Näidake siin meetmed, mis tagavad serverite ja tööjaamade füüsilise turvalisuse (turvaline hoiukoht, kaablite turvalisus, konfidentsiaalsusfiltrid, turvalisuskontroll enne utiliseerimist jne.).",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_SEC_SRC": {
-        "placeholder": "Indicate here whether the implantation area is subject to environmental disasters",
-        "name": "Avoiding sources of risk",
-        "description": "Documentation on implantation area, which should not be subject to environmental disasters (flood zone, proximity to chemical industries, earthquake or volcanic zone, etc.).Specify if dangerous products are stored in the same area.",
+        "placeholder": "Indicate here whether the implantation area is subject to environmental disasters",#"Näidake siin, kas tegevuskohas on loodukatastroofide ohtu",
+        "name": "Avoiding sources of risk",#"Riskiallikate vältimine",
+        "description": "Documentation on implantation area, which should not be subject to environmental disasters (flood zone, proximity to chemical industries, earthquake or volcanic zone, etc.).Specify if dangerous products are stored in the same area.",#"Tegevuskoha dokumenteerimine, milles tuvastatakse, et piirkond ei ole looduskatastroofi ohus (üleujutus, keemiatööstuse lähedus, maavärin või vulkaaniline tegevus jne.). Märkige samal alal hoitavad ohtlikud ained.",
         "source": "PIAF Connected Objects p23 - WIKI"
       },
       "PIA_SEC_PROT": {
