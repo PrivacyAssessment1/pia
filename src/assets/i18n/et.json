@@ -677,23 +677,23 @@
         "source": "PIA2 old version, GDPR Article 9 and 10 - WIKI"
       },
       "PIA_EX_HUMI": {
-        "name": "Internal human sources",
-        "description": "It could be either:<br>- a negligent or rogue employee, proximity of the system, skills, privileges and available time are potentially high, possible lack of training and awareness<br>- negligent or rogue user, family member or friend having access to the service.<br> Various motives are possible, including : clumsiness, error, negligence game, malicious intent, revenge, spying",
+        "name": "Sisemised inimallikad",
+        "description": "Need võivad olla:<br>- hooletu või petlik töötaja, süsteemi lähedus, oskused, privileege ja vaba aega on potentsiaalselt palju, koolituse ja teadlikkuse puudumine <br>- hooletu või petlik kasutaja, pereliige, kellel on juurdepääs teenusele.<br> Mitmed motiivid on võimalikud, sh : kohmakus, viga, hooletuse mäng, pahatahtlik kavatsus, kättemaks, luuramine.",
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_HUME": {
-        "name": "External human sources",
-        "description": "It could be either:<br>- a rogue or naive neighbor, by having a physical proximity, hacking into the device's data;<br>- a hacker targeting a user by using the knowledge he/she has of the user and some of the information concerning him/her;<br>- a hacker targeting one of the companies by using the knowledge he/she has of the companies that can undermine their image;<br>- an authorised third party company using its privileged access to illegitimately access information.",
+        "name": "Välised inimallikad",
+        "description": "Need võivad olla:<br>- petlik või naiivne naaber, kes on füüsiliselt lähedal ja häkib seadme andmeid;<br>- häkker, kes sihib kasutajaid kasutades teadmisi kasutaja kohta ja kasutajat puudutavat informatsiooni;<br>- häkker, kes sihib ühte ettevõtet kasutades teadmisi ettevõtte kohta, mis võiksid ettevõtte mainet kahjustada;<br>- volitatud kolmanda osapoole ettevõte kasutab oma privilegeeritud juurdepääsu ebaseaduslikult teabele ligi pääsemiseks.",
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_NHUM": {
-        "name": "Non-human sources",
-        "description": "Incident or damage at one of the organisation (power cut, fire, flood, etc.)",
+        "name": "Mitte-inimallikad",
+        "description": "Intsidenti või kahju tekkimine organisatisoonis (elektrikatkestus, tulekahju, üleujutus, jne.)",
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_IMPN": {
-        "name": "Negligible impact",
-        "description": "Data subjects either will not be affected or may encounter a few inconveniences, which they will overcome without any problem. For example:<br>- physical : transient headaches;<br>- material : loss of time in repeating formalities or waiting for them to be fulfilled, receipt of unsolicited mail (e.g.: spams), reuse of data published on websites for the purpose of targeted advertising , etc.;<br>- moral : mere annoyance, feeling of invasion of privacy without real or objective harm (commercial intrusion), etc.",
+        "name": "Ebaoluline mõju",
+        "description": "Andmesubjektid ei ole mõjutatud, võivad tekkida mõned ebamugavused, kuid neid saab ilma probleemideta lahendada .Näiteks:<br>- füüsilised : põgusad peavalud;<br>- materiaalsed : ajakaotus korrates formaalsusi või oodates nende täitumist, soovimatu posti saamine (nt.: spämm), sihitus reklaami eesmärgil veebilehtedel avaldatud andmete taaskasutamine , jne.;<br>- moraalsed : häirivus, tunne, et eraelu riivatakse ilma tegeliku või objektiivse kahjuta (kaubanduslik sissetung), jne.",
         "source": "PIAF Connected Objects p41 - WIKI"
       },
       "PIA_EX_IMPL": {
