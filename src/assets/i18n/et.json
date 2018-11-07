@@ -548,22 +548,22 @@
       },
       "PIA_DEF_CTLA": {
         "name": "Loogiline juurdepääsu kontroll",
-        "description": "Meetmed, mida rakendatakse selleks, et piirata volitamata isikute elektroonilist juurdepääsu isikuandmetele, mis nõuab mh järgnevat : <br>- <strong>kasutajate profiilide haldamist</strong> eraldades ülesanded vastutusaladest (eelistatavalt tsentraliseeritult), et võimaldada ainult volitatud kasutajatele ligipääs isikuandmetele kohaldades vajalikke põhimõtteid;<br>- <strong>tühistada töötajate, lepinguosaliste ja kolmandate isikute õigused, kui neil enam ei ole õigust pääseda ligi teatud valdustele ja ressurssidele </strong> või kui nende <strong>tööleping on lõppenud</strong>.",
+        "description": "Meetmed, mida rakendatakse selleks, et piirata volitamata isikute elektroonilist juurdepääsu isikuandmetele, mis nõuab mh järgnevat : <br>- <strong>kasutajate profiilide haldamist</strong> ülesannete erladamist vastutusaladest (eelistatavalt tsentraliseeritult), et võimaldada ainult volitatud kasutajatele ligipääs isikuandmetele kohaldades vajalikke põhimõtteid;<br>- <strong>tühistada töötajate, lepinguosaliste ja kolmandate isikute õigused, kui neil enam ei ole õigust pääseda ligi teatud valdustele ja ressurssidele </strong> või kui nende <strong>tööleping on lõppenud</strong>.",
         "source": "PIA3 p43 - WIKI"
       },
       "PIA_DEF_PWD": {
         "name": "Salasõna",
-        "description": "Salasõnad koosnevad vähemalt kaheksast tähemärgist; peavad olema uuendatud kui esineb kahtlus, et nad võivad olla ohustatud ja võimaluse korras perioodiliselt (iga kuue kuu tagant või kord aastas) ning peavad sisaldama vähemalt kolme tähmärki neljast sordist (suurtähed, väiketähed, numbrid ja erilised tähemärgid); kui salasõna muudetakse ei tohi viimaseid viit salasõna taaskasutada; sama salasõna ei tohi kasutada erinevate ligipääsude puhul; salasõnad ei tohiks olla seotud isiku isiklike andmetega (st nimi või sünniaasta). Määratle maksimaalne katsete arv, mida ületades esineb hoiatus ning autentimine blokeeritud  (ajutisel või kuni blokeering manuaalselt eemaldatud).",
+        "description": "Salasõnad koosnevad vähemalt kaheksast tähemärgist; peavad olema uuendatud kui esineb kahtlus, et nad võivad olla ohustatud ja võimaluse korral perioodiliselt (iga kuue kuu tagant või kord aastas) ning peavad sisaldama vähemalt kolme tähmärki neljast sordist (suurtähed, väiketähed, numbrid ja erilised tähemärgid); kui salasõna muudetakse ei tohi viimaseid viit salasõna taaskasutada; sama salasõna ei tohi kasutada erinevate ligipääsude puhul; salasõnad ei tohiks olla seotud isiku isiklike andmetega (st nimi või sünniaasta). Määratle maksimaalne katsete arv, mida ületades esineb hoiatus ning autentimise blokeerimine (ajutiselt või kuni blokeering manuaalselt eemaldatakse).",
         "source" : "Mesure_US"
       },
       "PIA_DEF_AUTH": {
         "name": "Autentimine",
-        "description": "Kõik isikud õigustatud ligipääsuga isikuandmetele (töötajad, lepingupooled ja kolmandad isikud) peaksid olema tuvastatud ainulaadse identifikaatori poolt. Vali autentimise meetod, et avada sessioonid, mis on sobivad võttes arvesse konteksti, riski taseme ja eeldatavat robustsust. Soovitused: kui ei esine kõrgendatud riske võib kasutada salasõna; kuid, kui riskid on kõrgemad tuleb kasutada ühekordset salasõna ning tuleb muuta default aktiveerimissalasõna või kui  osa salasõnast saadetakse SMS-iga, kaart koos PIN koodiga, elektrooniline sertifikaat või ükskõik milline teine tugev autentimise meede.",
+        "description": "Kõik isikud õigustatud ligipääsuga isikuandmetele (töötajad, lepingupooled ja kolmandad isikud) peaksid olema tuvastatud ainulaadse tuvastaja poolt. Vali autentimise meetod, et avada sessioonid, mis on konteksti, riski taset ja eeldatavat robustsust arvesse võttes sobivad. Soovitused: kui ei esine kõrgendatud riske võib kasutada salasõna; kuid, kui riskid on kõrgemad tuleb kasutada ühekordset salasõna ning tuleb vaikimisi muuta aktiveerimissalasõna, samuti kui osa salasõnast saadetakse SMS-iga, kaart koos PIN koodiga, elektrooniline sertifikaat või ükskõik milline teine tugev autentimise meede.",
         "source": "Mesures_US Logical Access Control"
       },
       "PIA_DEF_LOG": {
         "name": "Järelevalve",
-        "description": "Seadista logimise arhitektuur, mis võimaldab isikuandmetega seotud juhtumite varajast avastamist ning võimaldav saada teavet, mida saab kasutada selliste juhtumite analüüsimisel või tõendeid uurimistegevuse jaoks esitada.",
+        "description": "Seadista logimissüsteem, mis võimaldab isikuandmetega seotud juhtumite varajast avastamist ning saada teavet, mida saab kasutada selliste juhtumite analüüsimisel või tõendeid uurimistegevuse jaoks esitada.",
         "source": "Mesures_US Surveillance"
       },
       "PIA_DEF_ARCH": {
@@ -573,42 +573,42 @@
       },
       "PIA_DEF_MIN1": {
         "name": "Filtreerimine ja eemaldamine",
-        "description": "Andmeid importides võidakse tahtmatult koguda metaandmei (nt EXIF andmeid koos lisatud pildifailiga). <br>Sellised metaandmed tuleb identifitseerida ja eemaldada, kui need ei ole põhitegevuse otstarbeks vajalikud.",
+        "description": "Andmeid importides võidakse tahtmatult koguda metaandmeid (nt EXIF andmeid koos lisatud pildifailiga). <br>Sellised metaandmed tuleb identifitseerida ja eemaldada, kui need ei ole põhitegevuse otstarbeks vajalikud.",
         "source" : "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN2": {
         "name": "Tundlikkuse vähendamine läbi konverteerimise ",
-        "description": "Kui tundlikud andmed on saadud üldise teabe seeria osana või edastatud üksnes statistilisteks eesmärkideks, on võimalik neid konverteerida vähem tundlikusse vormi või pseudonümiseerida. Näiteks : <br>- kui süsteem kogub IP-aadressi kasutaja asukoha kindlaksmääramiseks statistilisel eesmärgil, saab IP-aadressi kustutada pärast linna või piirkonna tuvastamist<br>- kui süsteem tunnustab vidoematerjali valvekaameratest, tunneb ta ära inimesed, kes seisavad või liiguvad pildil ning need hägustada<br>- kui süsteem on smart meter saab ta kokku koguda energiakulu teatud aja jooksul salvestamata seda reaalajas",
+        "description": "Kui tundlikud andmed on saadud üldise teabe seeria osana või edastatud üksnes statistilisteks eesmärkideks, on võimalik neid konverteerida vähem tundlikusse vormi või pseudonümiseerida. Näiteks : <br>- kui süsteem kogub IP-aadressi kasutaja asukoha kindlaksmääramiseks statistilisel eesmärgil, saab IP-aadressi kustutada pärast linna või piirkonna tuvastamist<br>- kui süsteem tunnustab vidoematerjali valvekaameratest, tunneb ta ära inimesed, kes seisavad või liiguvad pildil ning saab need hägustada<br>- kui süsteem on arukas mõõtja saab ta kokku koguda energiakulu teatud aja jooksul seda reaalajas salvestamata",
         "source" : "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_SRC": {
         "name": "Riski allikas",
-        "description": "Inimene või mitte-inimene , mis võib ohu luua. Selline allikas võib toimida tahtlikult või tahtmatult.",
+        "description": "Inimene või mitte-inimene, mis võib ohu luua. Selline allikas võib toimida tahtlikult või tahtmatult.",
         "source": "PIA1 p11 - WIKI"
       },
       "PIA_DEF_MEN": {
         "name": "Ähvardavad ohud",
-        "description": "Protseduur, mis hõlmab ühe või enama isiku toimingut andmeid toetavate vahendite kohta. Seda kasutatakse tahtlikult või muul viisil riskiallikate abil ning võib põhjustada kardetud sündmuse.",
+        "description": "Protseduur, mis hõlmab ühe või enama isiku toimingut andmeid toetavate vahendite kohta. Seda kasutatakse tahtlikult või muul viisil riskiallikate abil ning võib põhjustada välditava sündmuse.",
         "source": "PIA1 p12 - WIKI"
       },
       "PIA_DEF_MENA": {
-        "name": "Ohud, mis võivad põhjustada ebaseadusliku juurdepääsu",
-        "description": "Ohud seoses: - <strong>riistvaraga</strong>, mida kasutatakse sobimatult, mida jälgitakse, muudetakse või on kaotsi läinud (tundliku riistvara transportimine või kasutamine isiklikuks otstarbeks, teise isiku isikliku ekraani vaatamine ilma tema teadmata rongil viibides, jälgimine riistvaralise keylogger-iga, jne.)<br> - <strong>tarkvara</strong>, mida kasutatakse sobimatult, mida jälgitakse või muudetakse (privileegide tõstmine, konfiguratsiooniandmete kogumine, nakatumine pahatahtliku koodi poolt jne.)<br>- <strong>Arvuti kanalid</strong>, mida jälgitakse (Etherneti liikluse pealtkuulamine jne.)<br>- <strong>Inimese</strong>, keda jälgitakse, manipuleeritakse või kes kaovad (informatsiooni tahtmatu avalikustamine, sotsiaaltehnoloogia, ülesannete muutused)<br>- <strong>Dokumendid paberil</strong> mida jälgitakse või lähevad kaotsi (seoses meili vargusega, jne.)<br>- <strong>Paberi ülekande kanalid</strong> mida jälgitakse (ringluses olevate allkirjaartiklite lugemine, jne.)",
+        "name": "Ohud, mis võivad viia ebaseadusliku ligipääsuni",
+        "description": "Ohud seoses: - <strong>riistvaraga</strong>, mida kasutatakse sobimatult, mida jälgitakse, muudetakse või on kaotsi läinud (tundliku riistvara transportimine või kasutamine isiklikuks otstarbeks, teise isiku isikliku ekraani vaatamine ilma tema teadmata rongil viibides, jälgimine riistvaralise keylogger-iga, jne.)<br> - <strong>tarkvara</strong>, mida kasutatakse sobimatult, mida jälgitakse või muudetakse (privileegide tõstmine, konfiguratsiooniandmete kogumine, nakatamine pahatahtliku koodi poolt jne.)<br>- <strong>Arvuti kanalid</strong>, mida jälgitakse (Etherneti liikluse pealtkuulamine jne.)<br>- <strong>Inimese</strong>, keda jälgitakse, manipuleeritakse või kes kaovad (informatsiooni tahtmatu avalikustamine, sotsiaaltehnoloogia, ülesannete muutused)<br>- <strong>Dokumendid paberil</strong> mida jälgitakse või lähevad kaotsi (seoses meili vargusega, jne.)<br>- <strong>Paberi ülekande kanalid</strong> mida jälgitakse (ringluses olevate allkirjaartiklite lugemine, jne.)",
         "source": "PIAF Connected objects p44 and 45"
       },
       "PIA_DEF_MENM": {
-        "name": "Ohud, mis võivad viia isikuandmete soovimatute muutmiseni",
-        "description": "<strong>Ohud seoses : </strong><br>- <strong>riistvaraga</strong>, mida on muudetud (ühildumatu riistvara lisamine, mis põhjustab rikkeid, oluliste komponentide eemaldamine, jne.)<br>- <strong>tarkvara</strong>, mida kasutatakse sobimatult või muudetakse (andmebaasis olevate andmete soovimatud muudatused, operaatovead, mis muudavad andmeid, jne.)<br>- <strong>arvuti kanalid</strong>, mida kasutatakse sobimatult (katkestatud andmete edasisaatmine, jne.)<br>- <strong>inimesed</strong>, kes on ülekoormatud või manipuleeritud (töötajatele ülesannete jagamine, mis ületavad töötajate võimeid, stress või negatiivsed muutused töötingimustes, mõjutused, jne.)<br>- Paberdokumendid, mida on muudetud (failis olevate arvude muutmine, originaali asendamine võltinguga, jne.)<br>- <strong>Paberi ülekande kanalid</strong> mida on muudetud (muutus ühelt allkirapiltelt teisele, mitme vastuolulise dokumendi saatmine, jne.)",
+        "name": "Ohud, mis võivad viia isikuandmete soovimatu muutmiseni",
+        "description": "<strong>Ohud seoses : </strong><br>- <strong>riistvaraga</strong>, mida on muudetud (ühildumatu riistvara lisamine, mis põhjustab rikkeid, oluliste komponentide eemaldamine, jne.)<br>- <strong>tarkvara</strong>, mida kasutatakse sobimatult või muudetakse (andmebaasis olevate andmete soovimatud muudatused, operaatorivead, mis muudavad andmeid, jne.)<br>- <strong>arvuti kanalid</strong>, mida kasutatakse sobimatult (katkestatud andmete edasisaatmine, jne.)<br>- <strong>inimesed</strong>, kes on ülekoormatud või manipuleeritud (töötajatele ülesannete jagamine, mis ületavad töötajate võimeid, stress või negatiivsed muutused töötingimustes, mõjutused, jne.)<br>- Paberdokumendid, mida on muudetud (failis olevate arvude muutmine, originaali asendamine võltsinguga, jne.)<br>- <strong>Paberi ülekande kanalid</strong> mida on muudetud (muutus ühelt allkirja raamatult teisele, mitme vastuolulise dokumendi saatmine, jne.)",
         "source": "PIAF Connected Objects p43 and 44, WIKI"
       },
       "PIA_DEF_MENI": {
         "name": "Ohud, mis võivad kaasa tuua isikuandmete kadumise",
-        "description": "<strong>Ohud seoses : </strong><br>- <strong>riistvaraga</strong> : mida kasutatakse sobimatult, koormatakse üle, muudetakse, kahjustatakse või mis lähevad kaotsi (ladustamisüksus on täis, töötlemisvõimsuse ülekoormatud, ühildumatu riistvara lisamine, mis põhjustb rikkeid, tulekahju, vahendi vargus või kaotsiminek, jne.)<br>- <strong>tarkvara</strong> : mida kasutatakse sobimatult, mis on ülekoormatud, muudetud, kahjustatud või kaotsi läinud (andmete kustutamine, andmebaasi suuruse ületamine, loogiline pomm, andmete litsentsimiseks kasutatava tarkvara litsenti uuendamata jätmine, jne.)<br>- <strong>arvuti kanalid</strong> : mis on ülekoormatud, muudetud või kaotsi läinud (volitamata allalaadimine, interneti ühenduse kadumine, jne.)<br>- <strong>inimesed</strong> : kes on ülekoormatud, kahjustatud või kaotsi läinud (oskuste halb rakendamine, haigused, pensionile jäämine, jne.)<br>- <strong>paberdokumendid</strong> : mis on sobimatult kasutatud, kahjustunud või kaotsi läinud (kustutamine, arhinveeritud dokumentide vananemine, dokumentide vargus või kaotsi minek, jne.)<br>- <strong>Paberi ülekande kanalid</strong> : mis on ülekoormatud, muudetud või kaotsi läinud (meilie kättetoimetamise peatamine streigi tõttu, kontorite või ruumide ümberpaigutamine, dokumente kättetoimetava ettevõtte kaotamine, paberkanalite ümberkorraldamine, jne.)",
+        "description": "<strong>Ohud seoses : </strong><br>- <strong>riistvaraga</strong> : mida kasutatakse sobimatult, koormatakse üle, muudetakse, kahjustatakse või mis lähevad kaotsi (ladustamisüksus on täis, töötlemisvõimsus on ülekoormatud, ühildumatu riistvara lisamine, mis põhjustb rikkeid, tulekahju, vahendi vargus või kaotsiminek, jne.)<br>- <strong>tarkvara</strong> : mida kasutatakse sobimatult, mis on ülekoormatud, muudetud, kahjustatud või kaotsi läinud (andmete kustutamine, andmebaasi suuruse ületamine, loogikapomm, andmete litsentsimiseks kasutatava tarkvara loa uuendamata jätmine, jne.)<br>- <strong>arvuti kanalid</strong> : mis on ülekoormatud, muudetud või kaotsi läinud (volitamata allalaadimine, interneti ühenduse kadumine, jne.)<br>- <strong>inimesed</strong> : kes on ülekoormatud, kahjustatud või kaotsi läinud (oskuste halb rakendamine, haigused, pensionile jäämine, jne.)<br>- <strong>paberdokumendid</strong> : mida on sobimatult kasutatud, mis on kahjustunud või kaotsi läinud (kustutamine, arhinveeritud dokumentide vananemine, dokumentide vargus või kaotsi minek, jne.)<br>- <strong>Paberi ülekande kanalid</strong> : mis on ülekoormatud, muudetud või kaotsi läinud (meilie kättetoimetamise peatamine streigi tõttu, kontorite või ruumide ümberpaigutamine, dokumente kättetoimetava ettevõtte kaotamine, paberkanalite ümberkorraldamine, jne.)",
         "source": "PIAF Connected Objects p44 and 45, WIKI"
       },
       "PIA_DEF_GRV": {
         "name": "Tõsidus",
-        "description": "Tõsidus kujutab endast riski ulatust. See sõltub eelkõige potentsiaalsete mõjutajate kahjulikus iseloomust.",
+        "description": "Tõsidus kujutab endast riski ulatust. See sõltub eelkõige potentsiaalsete mõjutajate kahjulikust iseloomust.",
         "source": "PIA1 page 6"
       },
       "PIA_DEF_VRA": {
