@@ -480,7 +480,7 @@
         "name": "Supporting assets",#"Toetavad vahendid"
         "description": "Asset on which personal data rely. This may be hardware, software, networks, people, paper or paper transmission channels",#"Vahendid, millest isikuandmed sõltuvad. Need võivad olla riistvara, võrgud, inimesed, paber või paberi edasiandmise kanalid",
         "source": "PIA1 p10"
-        },
+       },
       "PIA_DEF_MINC": {
         "name": "Isikuandmete koguse vähendamine",
         "description": "Vähenda riskide tõsidust vähendades ka isikuandmete kogust rangelt vajaliku koguseni, et saavutada määratletud eesmärk. Vastasel juhul ei koguta andmeid.",
@@ -488,22 +488,22 @@
       },
       "PIA_DEF_MIND": {
         "name": "Andmete vähendamine",
-        "description": "Vähenda riskide tõsidust vähendades andmeid ise teostades meetmeid, mis on suunatud andmete tundlikkuse vähendamisele nagu filtreerimine ja ebavajalike andmete eemaldamine, andmete pseudonümiseerimine jne.",
+        "description": "Vähenda riskide tõsidust vähendades andmeid võttes meetmeid, mis on suunatud andmete tundlikkuse vähendamisele nagu filtreerimine ja ebavajalike andmete eemaldamine, andmete pseudonümiseerimine jne.",
         "source": "PIA3 p64"
       },
       "PIA_DEF_CONS": {
         "name": "Nõusolek",
-        "description": "Iga vabatahtlik, konkreetne, teadlik ja ühemõtteline tahteavaldus, millega andmesubjekti kas avalduse vormis või selge nõusolekut väljendava tegevuseg anõustub tema kohta käivate isikuandmete töötlemisega.<br>See <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.10 of [GDPR]</a>",
+        "description": "Iga vabatahtlik, konkreetne, teadlik ja ühemõtteline tahteavaldus, millega andmesubjekti kas avalduse vormis või selge nõusolekut väljendava tegevusega nõustub tema kohta käivate isikuandmete töötlemisega.<br>Vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.10 [GDPR]</a>",
         "source": "GDPR Art. 4.10"
       },
       "PIA_DEF_ACC": {
         "name": "Õigus tutvuda andmetega",
-        "description": "Andmesubjektil on õigus saada vastutavalt töötlejalt kinnitust selle kohta, kas teda käsitlevaid isikuandmeid töödeldakse, ning sellisel juhul tutvuda isikuandmete ja järgneva teabega <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 15 of [GDPR]</a>",
+        "description": "Andmesubjektil on õigus saada vastutavalt töötlejalt kinnitust selle kohta, kas teda käsitlevaid isikuandmeid töödeldakse, ning sellisel juhul tutvuda isikuandmete ja järgneva teabega <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 15 [GDPR]</a>",
         "source":"GDPR Art. 15"
       },
       "PIA_DEF_PORT": {
         "name": "Andmete ülekandmise õigus",
-        "description": " Andmesubjektil on õigus saada teda puudutavaid isikuandmeid, mida ta on vastutavale töötajale esitanud, struktureeritud, üldkasutavas vormingus ning masinloetaval kujul ning õigus edastada need andmed teisele vastutavale töötlejale, ilma et vastutav töötleja, kellele kõnealused isikuandmed on esitatud, seda takistaks, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 20 of [GDPR]</a>",
+        "description": " Andmesubjektil on õigus saada teda puudutavaid isikuandmeid, mida andmesubjkt on vastutavale töötajale esitanud, struktureeritud, üldkasutavas vormingus ning masinloetaval kujul ning õigus edastada need andmed teisele vastutavale töötlejale, ilma et vastutav töötleja, kellele kõnealused isikuandmed on esitatud, seda takistaks, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 20 [GDPR]</a>",
         "source": "GDPR Art. 20"
       },
       "PIA_DEF_RECT": {
@@ -513,27 +513,27 @@
       },
       "PIA_DEF_EFF": {
         "name": "Õigus andmete kustutamisele",
-        "description": " Andmesubjektil on õigus nõuda, et vastutav töötleja kustutaks põhjendamatu viivituseta teda puudutavad isikuandmed ja vastutav töötleja on kohustatud kustutama isikuandmed põhjendamatu viivituseta, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 17 of [GDPR]</a>",
+        "description": " Andmesubjektil on õigus nõuda, et vastutav töötleja kustutaks põhjendamatu viivituseta teda puudutavad isikuandmed ja vastutav töötleja on kohustatud kustutama isikuandmed põhjendamatu viivituseta, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 17 [GDPR]</a>",
         "source" : "GDPR Art. 17"
       },
       "PIA_DEF_LIM": {
         "name": "Õigus andmete töötlemise piiramisele",
-        "description": "Andmesubjektil on õigus nõuda vastutavalt töötlejalt isikuandmete töötlemise piiramist, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 18 of [GDPR]</a>",
+        "description": "Andmesubjektil on õigus nõuda vastutavalt töötlejalt isikuandmete töötlemise piiramist, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 18 [GDPR]</a>",
         "source": "GDPR Art. 18"
       },
       "PIA_DEF_OPP": {
         "name": "Õigus esitada vastuväiteid",
-        "description": "Andmesubjektil on õigus oma konkreetsest olukorrast lähtudes esitada igal ajal vastuväiteid teda puudutavate isikuandmete töötlemise suhtes, vastavalt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 21 of [GDPR]</a>",
+        "description": "Andmesubjektil on õigus oma konkreetsest olukorrast lähtudes esitada igal ajal vastuväiteid teda puudutavate isikuandmete töötlemise suhtes, vastavalt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 21 [GDPR]</a>",
         "source": "GDPR Art. 21"
       },
       "PIA_DEF_CHIF": {
         "name": "Krüpteerimine",
-        "description": "Meede, mis muudab isikuandmed juurdepääsuõiguseta isikule leotamatuks (sümmeetriline või asümmeetriline krüpteerimine, teadaolevalt tugevate avalike algoritmide kasutamine, autentimise tõend, jne.).",
+        "description": "Meede, mis muudab isikuandmed juurdepääsuõiguseta isikule loetamatuks (sümmeetriline või asümmeetriline krüpteerimine, teadaolevalt tugevate avalike algoritmide kasutamine, autentimise tõend, jne.).",
         "source " : "Mesures_US Encryption"
       },
       "PIA_DEF_ANO": {
         "name": "Anonüümsus",
-        "description": "Protsess, mis eemaldab identifitseeritavad omadused isikuandmetelt. Protsessi robsustsuse hindamiseks vt <a target=\"_blank\" href=\"http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf\">WP29 guidelines</a>.",
+        "description": "Protsess, mis eemaldab identifitseeritavad omadused isikuandmetelt. Protsessi robsustsuse hindamiseks vt <a target=\"_blank\" href=\"http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf\">WP29 juhised</a>.",
         "source": "Mesures_US and G29 guidelines http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf"
       },
       "PIA_DEF_PSEU": {
