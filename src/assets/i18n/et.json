@@ -633,12 +633,12 @@
       },
       "PIA_DEF_ST": {
         "name": "Töötleja",
-        "description": "Füüsiline või juriidiline isik, riigiasutus, esindus või muu organ, kes töötleb isikuandmeid vastutava töötleja nimel, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.8 of [GDPR]</a>.<br>Töötleja ja mistahes vastutav töötleja või töötleja alluvuses olev isik, kelle on juurdepääs isikuandmetele, et töötle töötle neid anmdeid kui vastutav töötleja ei ole andnud juhiseid ning juhul, kui see on nõutav liidu või liikmesriigi õiguses , vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 29 of [GDPR]</a>.",
+        "description": "Füüsiline või juriidiline isik, riigiasutus, esindus või muu organ, kes töötleb isikuandmeid vastutava töötleja nimel, vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 4.8 of [GDPR]</a>.<br>Töötleja ja mistahes vastutav töötleja või töötleja alluvuses olev isik, kelle on juurdepääs isikuandmetele, ei töötle neid anmdeid kui vastutav töötleja ei ole andnud juhiseid ning juhul, kui see ei ole nõutav liidu või liikmesriigi õiguses , vt <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN\">Art. 29 of [GDPR]</a>.",
         "source": "GDPR Art. 4.8 and 29"
       },
       "PIA_DEF_RGPD": {
         "name": "GDPR (isikuandmete kaitse üldmäärus",
-        "description": "Regulatsioon, mis käsitleb füüsiliste isikute kaitset seoses iskuandmete töötlemisega ja selliste andmete vaba liikumisega ja direktiivi 95/46/EÜ kehtetuks tunnistamisega.",
+        "description": "Regulatsioon, mis käsitleb füüsiliste isikute kaitset seoses iskuandmete töötlemisega ja selliste andmete vaba liikumist direktiivi 95/46/EÜ kehtetuks tunnistamisega.",
         "source": "GDPR tiitel"
       },
       "PIA_DEF_PC": {
@@ -648,17 +648,17 @@
       },
       "PIA_DEF_MIN3": {
         "name": "Andmete identifitseeritava olemuse vähendamine",
-        "description": "Süsteem saab kindlustada, et : <br>- kasutaja saab kasutada ressurssi või teenust ilma oma riskita oma identiteeti avalikustada (anonüümsed andmed)<br>- kasutaja saab kasutada ressurssi või teenust ilma oma riskita oma identiteeti avalikustada, kuid võib olla tuvstatav ja vastutav selle kasutamise eest (pseudonüümsed andmed)<br>- kasutaja saab ressursse või teenuseid mitmel otstarbel kasutada ilma riskita, et neid erinevaid kasutusviise oleks võimalik omavahel siduda (andmeid ei saa korreleerida)<br>- kasutaja saab kasutada ressurssi või teenust ilma ohuta, et keegi teine eelkõige kolmandad isikud saaksid jälgida, et ressurssi või teenust kasutatakse (mitte-jälitavus)<br>Eespool loetletud meetodi valik tuleb teha tuvastatud ohtude põhjal. Mõne ohu puhul eraelu puutumatusele on pseudonümiseerimine sobivam kui anonüümseks muutmine (nt, kui on vajadus jälgitavusele). Lisaks käsitletakse mõnda ohtu eraelu puutumatusele meetodeid kombineerides.",
+        "description": "Süsteem saab kindlustada, et : <br>- kasutaja saab kasutada ressurssi või teenust ilma riskita oma identiteeti avalikustada (anonüümsed andmed)<br>- kasutaja saab kasutada ressurssi või teenust ilma riskita oma identiteeti avalikustada, kuid võib olla tuvstatav ja vastutav selle kasutamise eest (pseudonüümsed andmed)<br>- kasutaja saab ressursse või teenuseid mitmel otstarbel kasutada ilma riskita, et neid erinevaid kasutusviise oleks võimalik omavahel siduda (andmeid ei saa korreleerida)<br>- kasutaja saab kasutada ressurssi või teenust ilma ohuta, et keegi teine eelkõige kolmandad isikud saaksid jälgida, et ressurssi või teenust kasutatakse (mitte-jälitavus)<br>Eespool loetletud meetodi valik tuleb teha tuvastatud ohtude põhjal. Mõne ohu puhul eraelu puutumatusele on pseudonümiseerimine sobivam kui anonüümseks muutmine (nt, kui on vajadus jälgitavusele). Lisaks käsitletakse mõnda ohtu eraelu puutumatusele meetodeid kombineerides.",
         "source" : "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN4": {
         "name": "Andmete kogumise vähendamine",
-        "description": "Süsteemi saab jagada eraldiseisvateks osadeks eraldi juurdepääsuga kontrolli funktsioonidele. Anmeid saab ka jagada iseseisvate allsüsteemide vahel ja kontrollida iga allsüsteemifa kasutades erinevaid juurdepääsu kontrollmehhanisme. Kui allsüsteem on ohustatud, siis võib mõju vähendada ülejäänud andmetel.",
+        "description": "Süsteemi saab jagada eraldiseisvateks osadeks eraldi juurdepääsuga kontrolli funktsioonidele. Anmeid saab ka jagada iseseisvate allsüsteemide vahel ja kontrollida iga allsüsteemiga kasutades erinevaid juurdepääsu kontrollmehhanisme. Kui allsüsteem on ohustatud, siis võib mõju vähendada ülejäänud andmetel.",
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_DEF_MIN5": {
         "name": "Andmetele juurdepääsu piiramine",
-        "description": "Süsteem saab piirata juurdepääsu vastavalt \"vaja teada\" põhimõttele. Süsteem saab eristada tundlikud andmed ning rakendada konkreetseid juurdepääsu kontrollimise eeskirju. Süsteem saab ka krüpteerida tundlikud andmed, et kaitsta nende konfidentsiooalsust edastamise ja salvestamise vältel. Samuti tuleb kaitsta juurdepääs andmetöötluse käigus toodetud ajutistele küspsistele.",
+        "description": "Süsteem saab piirata juurdepääsu vastavalt \"vaja teada\" põhimõttele. Süsteem saab eristada tundlikud andmed ning rakendada konkreetseid juurdepääsu kontrollimise eeskirju. Süsteem saab ka krüpteerida tundlikud andmed, et kaitsta nende konfidentsiaalsust edastamise ja salvestamise vältel. Samuti tuleb kaitsta juurdepääs andmetöötluse käigus toodetud ajutistele küspsistele.",
         "source": "PIAF Connected objects p42 - WIKI"
       },
       "PIA_EX_DCPC": {
@@ -678,7 +678,7 @@
       },
       "PIA_EX_HUMI": {
         "name": "Sisemised inimallikad",
-        "description": "Need võivad olla:<br>- hooletu või petlik töötaja, süsteemi lähedus, oskused, privileege ja vaba aega on potentsiaalselt palju, koolituse ja teadlikkuse puudumine <br>- hooletu või petlik kasutaja, pereliige, kellel on juurdepääs teenusele.<br> Mitmed motiivid on võimalikud, sh : kohmakus, viga, hooletuse mäng, pahatahtlik kavatsus, kättemaks, luuramine.",
+        "description": "Need võivad olla:<br>- hooletu või petlik töötaja, süsteemi lähedus, oskused, privileegid ja vaba aega on potentsiaalselt palju, koolituse ja teadlikkuse puudumine <br>- hooletu või petlik kasutaja, pereliige, kellel on juurdepääs teenusele.<br> Mitmed motiivid on võimalikud, sh : kohmakus, viga, hooletuse mäng, pahatahtlik kavatsus, kättemaks, luuramine.",
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_HUME": {
