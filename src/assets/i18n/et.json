@@ -1129,81 +1129,81 @@
               "placeholder": "Present and describe how the product generally works (from the data collection to the data destruction, the different processing stages, storage, etc.), using for example a diagram of data flows (add it as an attachment) and a detailed description of the processes carried out.", #"Esitage ja kirjeldage, kuidas toode üldjuhul töötab (andmete kogumisest andmete hävitamiseni, erinevaid töötlemise etappe, ladustamist jne), kasutades näiteks andmevoogude diagrammi (lisage see manusena) ja kirjeldage üksikasjalikult läbiviidud protsesse."
             },
             "3": {
-              "title": "What are the data supporting assets?",
-              "placeholder": "List the data supporting assets (operating systems, business applications, database management systems, office suites, protocols, configurations, etc.)"
+              "title": "Millised on andmeid toetavad detailid? ; What are the data supporting assets?",
+              "placeholder": " Nimetle andmeid toetavad funktsioonid ja detailid (operatsioonisüsteem, ärirakendused, protokollid, konfiguratsioonid jne) List the data supporting assets (operating systems, business applications, database management systems, office suites, protocols, configurations, etc.)"
             }
           }
         }
       }
     },
     "2": {
-      "title": "Fundamental principles",
-      "short_help": "This section allows you to build the compliance framework for privacy principles.",
+      "title": "Fundamental principles", #"olulised printsiibid ja aluspõhimõtted"
+      "short_help": "This section allows you to build the compliance framework for privacy principles.", #"See alasektsioon võimaldab Teile luua raamvõrgustik andmekaitse printsiipidele ja aluspõhimõtetele"
       "items": {
         "1": {
-          "title": "Proportionality and necessity",
-          "short_help": "This part allows you to demonstrate the legitimacy of your treatment and of the data processed.",
+          "title": "Proportionality and necessity", #Propotsionaalsus ja vajalikkus"
+          "short_help": "This part allows you to demonstrate the legitimacy of your treatment and of the data processed.", #"See alasektsioon võimaldab Teil esitleda oma töödeldud andmete ja andmetöötluse seaduslikkust"
           "questions": {
             "1": {
-              "title": "Are the processing purposes specified, explicit and legitimate?",
-              "short_title": "Purposes",
-              "placeholder": "Explain why the processing purposes are specified, explicit and legitimate."
+              "title": "Are the processing purposes specified, explicit and legitimate?", #"Kas andmetöötluse eesmärgid on seaduslikud, määratletud täpselt ja selgesõnaliselt ja 
+              "short_title": "Purposes", #"Eesmärgid
+              "placeholder": "Explain why the processing purposes are specified, explicit and legitimate." #"Kirjeldage palun, millisel moel on andmetöötluse eesmärgid seaduslikud, täpsed ja selgesõnaliselt esitletud?
             },
             "2": {
-              "title": "What are the legal basis making the processing lawful?",
-              "short_title": "Legal basis",
-              "placeholder": "Describe what is/are the legal basis of your processing (ex: consent, performance of a contract, compliance with a legal obligation, protecting the vital intests, etc.)"
+              "title": "What are the legal basis making the processing lawful?", #"Milised on andmetöötluse seaduslikud alused?
+              "short_title": "Legal basis", #"Seaduslik alus
+              "placeholder": "Describe what is/are the legal basis of your processing (ex: consent, performance of a contract, compliance with a legal obligation, protecting the vital intests, etc.)" #"Palun kirjeldage ja nimetleg, millised on andmetöötluse seaduslikud alused (andmesubjekti nõusolek, lepingu täitmine, oluliste huvide kaitse jms)
             },
             "3": {
-              "title": "Are the data collected adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation')?",
-              "short_title": "Adequate data",
-              "placeholder": "Explain why each of the data collected is necessary for the purposes of your processing."
+              "title": "Are the data collected adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation')?", #"Kas kogutud andmed on asjakohased, olulised ja piiratud sellega, mis on vajalik nende töötlemise eesmärgi seisukohalt („võimalikult väheste andmete kogumine“)?
+              "short_title": "Adequate data", #"Kogutud andmete asjakohasus
+              "placeholder": "Explain why each of the data collected is necessary for the purposes of your processing." #"Palun kirjelda, miks on kogutud andmed vajalikud andmete töötlemise eesmärgi jaoks."
             },
             "4": {
-              "title": "Are the data accurate and kept up to date?",
-              "short_title": "Data accuracy",
-              "placeholder": "Describe which are the steps taken to ensure the quality of the data."
+              "title": "Are the data accurate and kept up to date?", #"Kas kogutud andmed on täpsed ja faktilised õiged (õigsus?"
+              "short_title": "Data accuracy", #"Andmete õigsus"
+              "placeholder": "Describe which are the steps taken to ensure the quality of the data." #"Kirjelda palun, milliseid samme on ette võetud, et kindlustada andmete õigsus ja kvaliteet"
             },
             "5": {
               "title": "What are the storage duration of the data?",
-              "short_title": "Storage duration",
-              "placeholder": "Explain why the storage durations are justified by legal requirements and/or processing needs."
+              "short_title": "Storage duration", #"Andmete säilitamise kestvus"
+              "placeholder": "Explain why the storage durations are justified by legal requirements and/or processing needs." #"Palun selgita, miks on andmete säilitamise ajaline kestvus vajalik seaduslike nõuete või töötluse seisukohast"
             }
           }
         },
         "2": {
-          "title": "Controls to protect the personal rights of data subjects",
-          "short_help": "This part allows you to demonstrate that you are implementing the necessary means to enable the persons concerned to exercise their rights.",
+          "title": "Controls to protect the personal rights of data subjects", #"Abinõud ja vajaminevad mehhanismid kaitsmaks andmekaitse subjektide õigusi"
+          "short_help": "This part allows you to demonstrate that you are implementing the necessary means to enable the persons concerned to exercise their rights.", #"Käesoleva osa võimaldab Sul näidata, et sa rakendad vajaminevaid õigusi, et andmesubjektid ja teised puudatud isikud saaksid kasutada vajamineval määral oma õigusi"
           "questions": {
             "1": {
-              "title": "How are the data subjects informed on the processing?",
-              "short_title": "Information for the data subjects",
-              "placeholder": "Describe what is the information given to the data subjects and what are the means to do it."
+              "title": "How are the data subjects informed on the processing?", #"Kuidas teavitatakse andmesubjekte andmete töötlemisest?
+              "short_title": "Information for the data subjects", "Teava, mis jagatakse andmesubjektile"
+              "placeholder": "Describe what is the information given to the data subjects and what are the means to do it." #"Kirjeldage, millist teavet jagatakse andmesubjektile ja milliste vahenditega.
             },
             "2": {
-              "title": "If applicable, how is the consent of data subjects obtained?",
-              "short_title": "Obtaining consent",
-              "placeholder": "Describe the controls intended to ensure that users' consent has been obtained."
+              "title": "If applicable, how is the consent of data subjects obtained?", #"Kuidas toimub andmesubjektidelt nõusoleku saamine adnmete töötlemiseks?
+              "short_title": "Obtaining consent", #"Nõusoleku saamine
+              "placeholder": "Describe the controls intended to ensure that users' consent has been obtained." #"Kirjelda meetmeid, mis kindlustavad selle, et kasutajatelt on saadud nõusolek
             },
             "3": {
-              "title": "How can data subjects exercise their rights of access and to data portability?",
-              "short_title": "Right of access and to data portability",
-              "placeholder": "Describe the controls intended for enabling data subjects to access, receive and transmit their data."
+              "title": "How can data subjects exercise their rights of access and to data portability?", #"Kuidas on tagatudd andmesubjektide õigused, andmete ülekandmisele ja nendega tutvumisel? 
+              "short_title": "Right of access and to data portability", #"Andmesubjekti õigus tutvuda andmetega ja õigus nende ülekandmisele
+              "placeholder": "Describe the controls intended for enabling data subjects to access, receive and transmit their data." #"Kirjadega meetmeid, mis võimaldavad andmesubjektidel andmetega tutvuda, andmeid endale saada ja neid andmeid edastada
             },
             "4": {
-              "title": "How can data subjects exercise their rights to rectification and erasure?",
-              "short_title": "Right to rectification and erasure",
-              "placeholder": "Describe the controls intended for enabling data subjects to rectify and erase their data."
+              "title": "How can data subjects exercise their rights to rectification and erasure?", #"Kuidas saavad andmesubjektid teostada oma õigust andmete parandamisele ja nende kustatamisele ("õigus olla unustatud"?
+              "short_title": "Right to rectification and erasure", #"Õigus andmete parandamisele ja nende kustutamisele"
+              "placeholder": "Describe the controls intended for enabling data subjects to rectify and erase their data." #"Palun kirjelda, millised meetmed on ette nähtud, et andmesubjektid saaksid enda kohta käivaid andmeid parandada ja kustada?
             },
             "5": {
-              "title": "How can data subjects exercise their rights to restriction and to object?",
-              "short_title": "Right to restriction and to object",
-              "placeholder": "Describe the controls intended for enabling data subjects to restrict and to object to the processing of their data."
+              "title": "How can data subjects exercise their rights to restriction and to object?", "Kuidas saavad andmesubjektid kasutada oma õigusi isikuandmete töötlemise piiramisele ja õigusele esitada vastuväiteid?
+              "short_title": "Right to restriction and to object", #"Õigus isikuandmete töötlemise piiramisele ja õigus esitada vastuväited"
+              "placeholder": "Describe the controls intended for enabling data subjects to restrict and to object to the processing of their data." #"Kirjeldage rakendatud meetmeid, mis võimaldavad andmesubjektidel kasutada õigust andmete töötlemise piiramisele ja õigust esitada vastuväiteid?"
             },
             "6": {
-              "title": "Are the obligations of the processors clearly identified and governed by a contract?",
-              "short_title": "Subcontracting",
-              "placeholder": "For each processor, describe his responsibilities (duration, scope, purpose, documented processing instructions, prior authorisation) and provide the contracts, codes of conduct and certifications determining its missions and obligations."
+              "title": "Are the obligations of the processors clearly identified and governed by a contract?", #"Kas volitatud töötleja kohustused on lepingus määratletud selgesõnaliselt? 
+              "short_title": "Subcontracting", #"Alltöövõtt
+              "placeholder": "For each processor, describe his responsibilities (duration, scope, purpose, documented processing instructions, prior authorisation) and provide the contracts, codes of conduct and certifications determining its missions and obligations." #"Kirjelda iga alltöövõtja kohustusi (kohustuste kestvus, eesmärk, kohaldamisala, töötlemise juhised) ja samuti esita töötlemise aluseks olevad lepingud ja tööjuhised.
             },
             "7": {
               "title": "In the case of data transfer outside the European Union, are the data adequately protected?",
