@@ -1206,54 +1206,54 @@
               "placeholder": "For each processor, describe his responsibilities (duration, scope, purpose, documented processing instructions, prior authorisation) and provide the contracts, codes of conduct and certifications determining its missions and obligations." #"Kirjelda iga alltöövõtja kohustusi (kohustuste kestvus, eesmärk, kohaldamisala, töötlemise juhised) ja samuti esita töötlemise aluseks olevad lepingud ja tööjuhised.
             },
             "7": {
-              "title": "In the case of data transfer outside the European Union, are the data adequately protected?",
-              "short_title": "Transfers",
-              "placeholder": "For each country outside the European Union where data are stored or processed, name it and tell if it is acknowledged as offering an adequate level of data protection or describe the provisions concerning the transfer."
+              "title": "In the case of data transfer outside the European Union, are the data adequately protected?", #"Kas andmete edastamise puhul väljastpoolt Euroopa Liitu on andmed adekvaatselt kaitstud?
+              "short_title": "Transfers", #"Edastamised
+              "placeholder": "For each country outside the European Union where data are stored or processed, name it and tell if it is acknowledged as offering an adequate level of data protection or describe the provisions concerning the transfer." #"Nimeta millistes Euroopa Liidu välistes riikides hoiustatakse andmeid, samuti selgita palun, kas nimetatud andmete hoiustamise puhul tagatakse andmete piisava kaitse
             }
           }
         }
       }
     },
     "3": {
-      "title": "Risks",
-      "short_help": "This section allows you to assess the privacy risks, taking into account existing or planned controls.",
+      "title": "Risks", #"Riskid
+      "short_help": "This section allows you to assess the privacy risks, taking into account existing or planned controls.", #"See alapeatükk võimaldab analüüsida privaatsus/andmekaitse riske arvestades olemasolevaid või planeeritavaid kaitsemeetmeid
       "items": {
         "1": {
-          "title": "Planned or existing measures",
-          "short_help": "This section allows you to identify controls (existing or planned) that contribute to data security."
+          "title": "Planned or existing measures", "Planeeritavad või olemasolevad kaitsemeetmed
+          "short_help": "This section allows you to identify controls (existing or planned) that contribute to data security." #"See alapeatükk võimaldab sul nimetada olemasolevad või planeeritavad meetmed, mis on mõeldud andmekaitse jaoks
         },
         "2": {
-          "title": "Illegitimate access to data",
-          "short_help": "Analyze the causes and consequences of illegitimate access to data, and estimate its severity and likelihood.",
+          "title": "Illegitimate access to data", "Ebaseaduslik andmetele ligipääs ja nendega tutvumine
+          "short_help": "Analyze the causes and consequences of illegitimate access to data, and estimate its severity and likelihood.", #"Analüüsi andmelekke võimalikke põhjuseid ja tagajärgi, samuti 
           "questions": {
             "1": {
               "title": "What could be the main <span class='green-highlight'>impacts on the data subjects</span> if the risk were to occur?",
-              "placeholder": "Enter the potential impacts"
+              "placeholder": "Enter the potential impacts" #"Nimeta selle potentsiaalsed tagajärjed ja mõjud
             },
             "2": {
               "title": "What are the main <span class='green-highlight'>threats</span> that could lead to the risk?",
-              "placeholder": "Enter the threats"
+              "placeholder": "Enter the threats" #"Nimeta ohud"
             },
             "3": {
               "title": "What are the risk <span class='green-highlight'>sources</span>?",
-              "placeholder": "Enter the risk sources"
+              "placeholder": "Enter the risk sources" #"Nimeta riskide allikad
             },
             "4": {
               "title": "Which of the identified <span class='green-highlight'>controls</span> contribute to addressing the risk?",
-              "placeholder": "Click to select controls which address the risk."
+              "placeholder": "Click to select controls which address the risk." #"Kliki siin, et valida kaitsemeetmed, mis riske ohjavad
             },
             "5": {
               "title": "How do you estimate the <span class='green-highlight'>risk severity</span>, especially according to potential impacts and planned controls?",
-              "placeholder": "Justify here the estimated severity of the risk."
+              "placeholder": "Justify here the estimated severity of the risk." #"Nimeta riskide allikad
             },
             "6": {
               "title": "How do you estimate the <span class='green-highlight'>likelihood of the risk</span>, especially in respect of threats, sources of risk and planned controls?",
-              "placeholder": "Justify here the estimated likelihood."
+              "placeholder": "Justify here the estimated likelihood." #"Põhjenda siin antud tõenäosuse hinnangut
             }
           }
         },
         "3": {
-          "title": "Unwanted modification of data",
+          "title": "Unwanted modification of data", #"Soovimatu andmete muutmine
           "short_help": "Analyze the causes and consequences of an undesired change in data, and estimate its seriousness and likelihood.",
           "questions": {
             "1": {
