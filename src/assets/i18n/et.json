@@ -697,219 +697,219 @@
         "source": ""
       },
       "PIA_EX_IMPL": {
-        "name": "Limited impact",
-        "description": "Data subjects may encounter significant inconveniences, which they will be able to overcome despite a few difficulties. For example:<br>- physical : minor physical ailments (minor illness due to disregard of contraindications), defamation resulting in physical or psychological retaliation, etc.;<br>- material : unanticipated payments (fines imposed erroneously), denial of access to administrative or commercial services, receipt of unsolicited targeted mailings likely to damage the reputation of data subjects, etc.;<br>- moral : minor but objective psychological ailments, feeling of invasion of privacy without irreversible damage, intimidation on social networks, etc.",
+        "name": "Limited impact",#"Piiratud mõju"
+        "description": "Data subjects may encounter significant inconveniences, which they will be able to overcome despite a few difficulties. For example:<br>- physical : minor physical ailments (minor illness due to disregard of contraindications), defamation resulting in physical or psychological retaliation, etc.;<br>- material : unanticipated payments (fines imposed erroneously), denial of access to administrative or commercial services, receipt of unsolicited targeted mailings likely to damage the reputation of data subjects, etc.;<br>- moral : minor but objective psychological ailments, feeling of invasion of privacy without irreversible damage, intimidation on social networks, etc.", #"Andmesubjektid võivad kogeda märkimisväärseid ebamugavusi, millest nad suudavad mõnele raskusele vaatamata üle saada. Näiteks:<br>- füüsiline : kergemad füüsilised vaevused (kergem haigus vastunäidustuste eiramise tõttu), füüsilisest või psühholoogilisest kättemaksust tulenev laimamine jne;<br>- materiaalne : ettenägematud maksed (ekslikult määratud trahvid), haldus- või kaubandusteenustele juurdepääsu keelamine, soovimatu adresseerimata rämpsposti saamine, mis võib kahjustada andmesubjekti mainet jne;<br>- moraalne : väiksed kuid objektiivsed psühholoogilised vaevused, eraellu sekkumise tunne ilma pöördumatu kahjusta, sotsiaalne hirmutamine jne."
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_IMPI": {
-        "name": "Significant impact",
-        "description": "Data subjects may encounter significant consequences, which they should be able to overcome albeit with real and serious difficulties. For example: <br>- physical : serious physical ailments causing long-term harm (worsening of health due to improper care, or disregard of contraindications), lteration of physical integrity for example following an assault, an accident at home, work, etc.<br>- material : misappropriation of money not compensated, targeted, unique and non-recurring, lost opportunities  (home loan, refusal of studies, internships or employment, examination ban), loss of housing, loss of employment, etc.;<br>- moral : serious psychological ailments (depression, development of a phobia), feeling of invasion of privacy with irreversible damage, victim of blackmailing, cyberbullying and harassment, etc.",
+        "name": "Significant impact", #"Oluline mõju"
+        "description": "Data subjects may encounter significant consequences, which they should be able to overcome albeit with real and serious difficulties. For example: <br>- physical : serious physical ailments causing long-term harm (worsening of health due to improper care, or disregard of contraindications), lteration of physical integrity for example following an assault, an accident at home, work, etc.<br>- material : misappropriation of money not compensated, targeted, unique and non-recurring, lost opportunities  (home loan, refusal of studies, internships or employment, examination ban), loss of housing, loss of employment, etc.;<br>- moral : serious psychological ailments (depression, development of a phobia), feeling of invasion of privacy with irreversible damage, victim of blackmailing, cyberbullying and harassment, etc.", #“Andmesubjektid võivad kokku puutuda märkimisväärsete tagajärgedega, mida nad peaksid suutma ületada, kuigi sellega kaasnevad tõelised ja tõsised raskused. Näteks: <br>- füüsiline : tõsised füüsilised tervisehäired, mis põhjustavad pikaajalist kahju (tervise halvenemine sobimatu hoolduse tõttu või vastunäidustuste eiramise tõttu), füüsilise puutumatuse muutumine, näiteks pärast rünnakut, õnnetust kodus või tööl jne.<br>- materiaalne : mitte hüvitatava raha ärakasutamine, sihilikud, ainulaadsed ja ühekordsed kaotatud võimalused (eluasemelaen, õppetööst keeldumine, praktika või tööhõive, eksamikeeld), eluaseme kaotamine, töökoha kaotus jne.<br>- moraalne : tõsised psühholoogilised vaevused (depressioon, foobia areng), põlvkondadevahelise privaatsuse sissetungimise tunne, väljapressimise ohver, küberkiusamine ja ahistamine jne.”
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_IMPM": {
-        "name": "Maximum impact",
-        "description": "Data subjects may encounter significant, or even irreversible, consequences, which they may not overcome. For example:<br>- physical : long-term or permanent physical ailments, permanent impairment of physical integrity, death;<br>- material : financial risk, substantial debts, inability to work, inability to relocate, loss of evidence in the context of litigation, loss of access to vital infrastructure (water, electricity), etc.<br>- moral : long-term or permanent psychological ailments, criminal penalty, abduction, loss of family ties, inability to sue, change of administrative status and/or loss of legal autonomy (guardianship), etc.",
+        "name": "Maximum impact", #"Maksmimaalne mõju"
+        "description": "Data subjects may encounter significant, or even irreversible, consequences, which they may not overcome. For example:<br>- physical : long-term or permanent physical ailments, permanent impairment of physical integrity, death;<br>- material : financial risk, substantial debts, inability to work, inability to relocate, loss of evidence in the context of litigation, loss of access to vital infrastructure (water, electricity), etc.<br>- moral : long-term or permanent psychological ailments, criminal penalty, abduction, loss of family ties, inability to sue, change of administrative status and/or loss of legal autonomy (guardianship), etc.", #"Andmesubjektid võivad kogeda märkimisväärseid või isegi pöördumatuid tagajärgi, mida nad ei pruugi ületada. Näiteks:<br>- füüsiline : pikaajalised või püsivad füüsilised tervisehäired, füüsilise puutumatuse püsiv halvenemine, surm;<br>- materiaalne : finantsrisk, olulised võlgnevused, töövõimetus, suutmatus ümber paigutada, tõendite kaotamine kohtuvaidluse kontekstis, juurdepääsu kaotamine olulistele infrastruktuuridele (vesi, elekter) jne.<br>- moraalne : pikaajalised või püsivad psühholoogilised haigused, kriminaalkaristus, röövimine, perekondlike sidemete kaotamine, suutmatus kohtusse pöörduda, haldusliku seisundi muutus ja/või seadusliku iseseisvuse kaotamine (eestkoste) jne.”
         "source": "PIAF Connected objects p41 - WIKI"
       },
       "PIA_EX_VRAN": {
-        "name": "Negligible likelihood",
-        "description": "It does not seem possible for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in a room protected by a badge reader and access code).",
+        "name": "Negligible likelihood", #"Vähene tõenäosus"
+        "description": "It does not seem possible for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in a room protected by a badge reader and access code).", #"Valitud ohuallikate puhul ei tundu olevat võimalik ohu realiseerumine toetavate varade omadusi ära kasutades (nt: paberdokumentide vargus, mis on hoiustatud ruumi, mis on kaitstud kaardilugeja ja juurdepääsukoodiga).“
         "source": "PIAF Connected objects p44 - WIKI"
       },
       "PIA_EX_VRAL": {
-        "name": "Limited likelihood",
-        "description": "It seems difficult for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in a room protected by a badge reader).",
+        "name": "Limited likelihood", #"Piiratud tõenäosus"
+        "description": "It seems difficult for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in a room protected by a badge reader).", #"Valitud ohuallikate puhul tundub olevat keeruline ohu realiseerumine toetavate varade omadusi ära kasutades (nt: paberdokumentide vargus, mis on hoiustatud ruumi, mis on kaitstud kaardilugejaga).“
         "source": "PIAF Connected objects p44 - WIKI"
       },
       "PIA_EX_VRAI": {
-        "name": "Significant likelihood",
-        "description": "It seems possible for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in offices that cannot be accessed without first checking in at the reception).",
+        "name": "Significant likelihood", #"Oluline tõenäosus"
+        "description": "It seems possible for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in offices that cannot be accessed without first checking in at the reception).", #"Valitud ohuallikate puhul tundub olevat reaalne ohu realiseerumine toetavate varade omadusi ära kasutades (nt: paberdokumentide vargus, mis on hoiustatud kontoris, kuhu ei pääse enne eelneva registreerimiseta vastuvõtulauas).“
         "source": "PIAF Connected objects p44 - WIKI"
       },
       "PIA_EX_VRAM": {
-        "name": "Maximum likelihood",
-        "description": "It seems extremely easy for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in the public lobby).",
+        "name": "Maximum likelihood", #"Maksimaalne tõenäosus"
+        "description": "It seems extremely easy for the selected risk sources to materialize the threat by exploiting the properties of supporting assets (e.g.: theft of paper documents stored in the public lobby).", #"Valitud ohuallikate puhul tundub olevat äärmiselt lihtne ohu realiseerumine toetavate varade omadusi ära kasutades (nt: paberdokumentide vargus, mis on hoiustatud avalikus fuajees).“
         "source": "PIAF Connected objects p44 - WIKI"
       },
       "PIA_EX_MIND": {
-        "name": "Minimisation of data themselves",
-        "description": "Reduce the severity of risks by minimising the data themselves, by taking measures aimed at reducing their sensitivity.",
+        "name": "Minimisation of data themselves", #"Andmete iseeneslik minimeerimine"
+        "description": "Reduce the severity of risks by minimising the data themselves, by taking measures aimed at reducing their sensitivity.", #"Vähendage riskide tõsidust minimeerides ise andmeid ja võttes kasutusele meetmeid andmete tundlikkuse vähendamiseks.“
         "source": "Mesures_US"
       }
     }
   },
   "comments": {
-    "comments_count": "comment(s)",
-    "new_comment": "Comment",
-    "placeholder_new_comment": "Leave a comment",
-    "comment": "Comment",
-    "send": "Send"
+    "comments_count": "comment(s)", #"Kommentaar(id)"
+    "new_comment": "Comment", #"Kommenteeri"
+    "placeholder_new_comment": "Leave a comment", #"Jäta kommentaar"
+    "comment": "Comment", #"Kommenteeri"
+    "send": "Send", #"Saada"
   },
   "questions": {
-    "edit": "Edit question",
+    "edit": "Edit question", #"Muuda küsimust"
     "gauges": {
-      "0": "(Undefined)",
-      "1": "Negligible",
-      "2": "Limited",
-      "3": "Important",
-      "4": "Maximum"
+      "0": "(Undefined)", #"(Määratlemata)"
+      "1": "Negligible", #"Ebaoluline"
+      "2": "Limited", #"Piiratud"
+      "3": "Important", #"Oluline"
+      "4": "Maximum", #"Maksimaalne"
     }
   },
   "evaluations": {
-    "title": "Evaluation",
-    "to_correct": "To correct",
-    "improvable": "Improvable",
-    "acceptable": "Acceptable",
-    "evaluation_comment": "Evaluation comment",
-    "action_plan_comment": "Action plan / corrective actions",
-    "placeholder_to_correct": "The information provided are not sufficient to properly evaluate them. Send back to the editor to improve the original submission.",
-    "placeholder_improvable1": "According to the available information, additional measures are to be implemented in order to improve the data protection of the processing.",
-    "placeholder_improvable2": "Enter your comments.",
-    "placeholder_acceptable": "According to the available information, the measures implemented are adequate to properly meet the requirements for protecting the data.",
+    "title": "Evaluation", #"Hindamine"
+    "to_correct": "To correct", #"Parandama"
+    "improvable": "Improvable", #"Parandatav"
+    "acceptable": "Acceptable", #"Vastuvõetav"
+    "evaluation_comment": "Evaluation comment", #"Hindamise kommentaar"
+    "action_plan_comment": "Action plan / corrective actions", #"Tegevusplaan / parandatavad tegevused"
+    "placeholder_to_correct": "The information provided are not sufficient to properly evaluate them. Send back to the editor to improve the original submission.", #"Esitatud teave ei ole andmete hindamiseks piisav. Saatke tagasi toimetajale esialgselt esitatu parandamiseks."
+    "placeholder_improvable1": "According to the available information, additional measures are to be implemented in order to improve the data protection of the processing.", #"Olemasoleva teabe kohaselt tuleb andmete tõõlemisel andmekaitse parandamiseks rakendada täiendavaid lisameetmeid."
+    "placeholder_improvable2": "Enter your comments.", #"Sisesta oma kommentaarid."
+    "placeholder_acceptable": "According to the available information, the measures implemented are adequate to properly meet the requirements for protecting the data.", #"Olemasoleva teabe kohaselt on rakendatud meetmed piisavad, et nõuetekohaselt täita andmekaitse nõudeid."
     "gauges": {
-      "seriousness": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>seriousness of this risk</span> ({{value}})?",
-      "likelihood": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>likelihood of this risk</span> ({{value}})?",
-      "0": "(Undefined)",
-      "1": "Negligible",
-      "2": "Limited",
-      "3": "Important",
-      "4": "Maximum"
+      "seriousness": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>seriousness of this risk</span> ({{value}})?", #"Võttes arvesse tegevuskava, kuidas te hindate ümber <span class='red-highlight'>riski tõsiduse</span> ({{value}})?"
+      "likelihood": "Taking into account the action plan, how do you re-evaluate the <span class='red-highlight'>likelihood of this risk</span> ({{value}})?", #"Võttes arvesse tegevuskava, kuidas te hindate ümber <span class='red-highlight'>riski tõenäosuse</span> ({{value}})?"
+      "0": "(Undefined)", #"(Määratlemata)"
+      "1": "Negligible", #"Ebaoluline"
+      "2": "Limited", #"Piiratud"
+      "3": "Important", #"Oluline"
+      "4": "Maximum" #"Maksimaalne"
     },
     "status": {
-      "0": "Pending",
-      "1": "To correct",
-      "2": "Improvable",
-      "3": "Acceptable"
+      "0": "Pending", #"Ootel"
+      "1": "To correct", #"Parandama"
+      "2": "Improvable", #"Parandatav"
+      "3": "Acceptable" #"Vastuvõetav"
     }
   },
   "help": {
-    "title": "Help",
+    "title": "Help", #"Abi"
     "definition": {
       "data1": {
-        "title": "Use the PIA tool",
-        "content": "Content being written"
+        "title": "Use the PIA tool", #"Mõjuhinnangu tööriista kasutamine"
+        "content": "Content being written" #"Kirjutatud sisu"
       },
       "data2": {
-        "title": "Known Issues",
+        "title": "Known Issues", #"Teadaolevad probleemid"
         "qa1": {
-          "title": "I get display issues such as icons being stuck in one state or missing elements from the interface",
-          "content": "When encountering those display issues, close the application and reload it. It usually fixes the issue. You won’t lose the information you have entered ; it is  automatically saved as you type."
+          "title": "I get display issues such as icons being stuck in one state or missing elements from the interface", #"Mul tekivad probleemid kuvamisega nagu näiteks on ikoonid ühes olekus kinni või liites puuduvad vajalikud elemendid."
+          "content": "When encountering those display issues, close the application and reload it. It usually fixes the issue. You won’t lose the information you have entered ; it is  automatically saved as you type." #"Selliste probleemide esinemisel sulgege rakendus ning avage see uuesti. Tavaliselt lahendab see probleemi. Rakendust sulgedes ei lähe sisestatud informatsioon kaduma, sest see salvestatakse automaatselt teksti trükkides."
         },
         "qa2": {
-          "title": "I can’t edit the gauges for evaluating the severity and likelihood of a risk",
-          "content": "This known issue is currently being fixed. If you encounter this problem, we recommend that you fill in the justification field of the estimated level of severity and / or likelihood. You will be able to edit the gauge once the bug is fixed."
+          "title": "I can’t edit the gauges for evaluating the severity and likelihood of a risk", #"Ma ei saa muuta mõõtevahendeid riski tõsiduse ja tõenäosuse hindamiseks"
+          "content": "This known issue is currently being fixed. If you encounter this problem, we recommend that you fill in the justification field of the estimated level of severity and / or likelihood. You will be able to edit the gauge once the bug is fixed." #"Selle probleemi lahendamisega tegeletakse. Kui teil sellegipoolest nimetatud probleem esineb, soovitame teil täita hinnangulise raskusastme ja/või tõenäosuse põhjendusvälja. Kui viga on parandatud, siis on võimalik seda väärtust muuta."
         },
         "qa3": {
-          "title": "I encounter issues when importing a PIA",
-          "content": "Several bugs have been observed when importing a PIA, and in particular the level gauges for evaluating the severity and likelihood of a risk may disappear. In this case, please refer to the above mentioned issue. Besides, a PIA may not appear on the dashboard after importing it. This is a display issue and you just need to refresh the page."
+          "title": "I encounter issues when importing a PIA", #"Mul esineb probleeme mõjuhinnangu importimisel"
+          "content": "Several bugs have been observed when importing a PIA, and in particular the level gauges for evaluating the severity and likelihood of a risk may disappear. In this case, please refer to the above mentioned issue. Besides, a PIA may not appear on the dashboard after importing it. This is a display issue and you just need to refresh the page." #"Mõjuhinnangu importimisel on täheldatud mitmeid vigu, eriti sageli on riski raskusastme ja tõenäosuse hindamiseks vajaliku taseme mõõtjad kadunud. Sel juhul palun viidake ülalmainitud probleemile. Lisaks ei pruugi mõjuhinnang pärast selle importimist ilmuda töölaulal. See on kuvamisviga ja te peate lihtsalt lehte värskendama."
         },
         "qa4": {
-          "title": "When I copy / paste text, it is highlighted.",
-          "content": "This is only a display bug and it has no effect on the text you enter in a field. This visual problem will be fixed soon."
+          "title": "When I copy / paste text, it is highlighted.", #"Kui ma teksti kopeerin või kleebin on see esile tõstetud."
+          "content": "This is only a display bug and it has no effect on the text you enter in a field. This visual problem will be fixed soon." #"See on kõigest arvutiprogrammi iseärasus ning see ei mõjuta lahtisse sisestatud teksti. See visuaalne probleem lahendatakse õigepea."
         },
         "qa5": {
-          "title": "I can’t evaluate a section",
-          "content": "In order to evaluate a section, it is mandatory to fill in all the fields. Please check if this is the case. When editing a risk, you must have at least one technical or organizational measure that mitigates the risk in order to ask for an evaluation of the risk."
+          "title": "I can’t evaluate a section", #"Ma ei saa jaotist hinnata"
+          "content": "In order to evaluate a section, it is mandatory to fill in all the fields. Please check if this is the case. When editing a risk, you must have at least one technical or organizational measure that mitigates the risk in order to ask for an evaluation of the risk." #"Selleks, et jaotist hinnata peavad olema kõik lahtrid täidetud. Palun kontrolli, kas see on probleemiks. Selleks, et taotleda riski hindamist peab teil riski muutmisel olema vähemalt üks tehniline või organisatsiooniline meede, mis leevendab riski."
         },
         "qa6": {
-          "title": "When switching language, the texts are not translated",
-          "content": "Please close the PIA you are editing and re-open it. The content should then be displayed in the language you have selected."
+          "title": "When switching language, the texts are not translated", #"Lehekülje keelt vahetades tekstide keel ei muutu"
+          "content": "Please close the PIA you are editing and re-open it. The content should then be displayed in the language you have selected.", #"Palun sulge mõjuhinnang, mida parjasjagu töötled ning ava see uuesti. Seejärel peaks kuvatud sisu olema tõlgitud valitud keelde."
         },
         "qa7": {
-          "title": "I have refused to validate a PIA but I don’t know what to do now",
-          "content": "For the moment, the navigation menu icons are not refreshed after refusing a PIA. You have to check each section and change the information and/or evaluation according to the reasons for refusing the PIA. Once all section have been reviewed, you should be able to request PIA validation again."
+          "title": "I have refused to validate a PIA but I don’t know what to do now", #"Ma olen mõjuhinnangu kinnitamisest keeldunud aga ei tea, mida edasi teha"
+          "content": "For the moment, the navigation menu icons are not refreshed after refusing a PIA. You have to check each section and change the information and/or evaluation according to the reasons for refusing the PIA. Once all section have been reviewed, you should be able to request PIA validation again.", #"Hetkel ei saa navigeerimismenüü ikoone pärast mõjuhinnangust keeldumist uuendada. Peate iga osa üle kontrollima ja muutma teavet ja/või hindamist mõjuhinnangust keeldumise põhjuste alusel. Kui kogu jaotis on üle vaadatud, peaksite saama mõjuhinnangu valideerimist uuesti taotleda."
         }
       },
       "footer": ""
     }
   },
   "about": {
-    "title": "About the Tool PIA",
-    "version_number": "Version number",
-    "description": "This tool is originally designed by the <a target=\"_blank\" href=\"https://www.cnil.fr\">Commission Nationale Informatique et Liberté (CNIL)</a>, the French Data Protection Authority, to help data processor to be compliant with the GDPR.<br>This software is free and open. If you wish to get involved in this project, you are welcome to download the source code from Github, modify it and share it with the community.",
-    "translators": "The PIA software is currently available in fourteen languages. The French and English versions are provided by the CNIL. The others versions result from the contributions of the following individuals:",
-    "translators_name": "<ul><li>Czech : Jiří Grohmann, Manuel d’Orso;</li><li>Dutch : Ruud van Driel, Manuel d’Orso;</li><li>English : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>Finnish : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a>;</li><li>French : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>German : Kosmas Schütz, Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>);</li><li>Greek : Dimitris Tzellis;</li><li>Hungarian : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a>;</li><li>Italian : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>);</li><li>Norwegian : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a>;</li><li>Polish : Joanna Karczewska, Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>);</li><li>Portuguese : Barbara Gois;</li><li>Romanian : webmyday;</li><li>Spanish : ylachgar.</li></ul>",
-    "contribute": "If you wish to contribute to the translation of the software in another language or improve the existing translations, we recommend you to <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">read the page describing the steps to follow</a>.",
-    "licences": "Library licences:"
+    "title": "About the Tool PIA", #"Mõjuhinnangu koostamise tööriistast"
+    "version_number": "Version number", #"Versiooni number"
+    "description": "This tool is originally designed by the <a target=\"_blank\" href=\"https://www.cnil.fr\">Commission Nationale Informatique et Liberté (CNIL)</a>, the French Data Protection Authority, to help data processor to be compliant with the GDPR.<br>This software is free and open. If you wish to get involved in this project, you are welcome to download the source code from Github, modify it and share it with the community.", #“Selle lehekülje on algselt disaininud<a target=\"_blank\" href=\"https://www.cnil.fr\">Commission Nationale Informatique et Liberté (CNIL)</a>, Prantsusmaa andmekaitseasutus, selleks et aidata andmetöötlejatel olla kooskõlas andmekaitse üldmäärusega.<br>See tarkvara on tasuta ja avatud. Kui Sa soovid osaleda käesolevas projektis, siis oled oodatud Grithub’ist alla laadima lähtekoodi, seda modifitseerima ning üldsusega jagama."
+    "translators": "The PIA software is currently available in fourteen languages. The French and English versions are provided by the CNIL. The others versions result from the contributions of the following individuals:", #"Mõjuhinnangu tarkvara on hetkel kättesaadav neljateistkümnes keeles. Prantsuse ja inglisekeelsed versioonid on CNIL poolt esitatud. Teised versioonid on valminud järgnevate isikute panuse tulemusena:"
+    "translators_name": "<ul><li>Czech : Jiří Grohmann, Manuel d’Orso;</li><li>Dutch : Ruud van Driel, Manuel d’Orso;</li><li>English : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>Finnish : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a>;</li><li>French : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>German : Kosmas Schütz, Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>);</li><li>Greek : Dimitris Tzellis;</li><li>Hungarian : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a>;</li><li>Italian : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>);</li><li>Norwegian : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a>;</li><li>Polish : Joanna Karczewska, Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>);</li><li>Portuguese : Barbara Gois;</li><li>Romanian : webmyday;</li><li>Spanish : ylachgar.</li></ul>", #"<ul><li>Tšehhi: Jiří Grohmann, Manuel d’Orso;</li><li>Holland : Ruud van Driel, Manuel d’Orso;</li><li>Inglise : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>Soome : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a>;</li><li>Prantsuse : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a>;</li><li>Saksa : Kosmas Schütz, Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>);</li><li>Kreeka : Dimitris Tzellis;</li><li>Hungarian : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a>;</li><li>Italian : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>);</li><li>Norra : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a>;</li><li>Poola : Joanna Karczewska, Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>);</li><li>Portugali : Barbara Gois;</li><li>Rumeenia : webmyday;</li><li>Hispaania : ylachgar.</li></ul>"
+    "contribute": "If you wish to contribute to the translation of the software in another language or improve the existing translations, we recommend you to <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">read the page describing the steps to follow</a>.", #"Kui te soovite kaasa aidata tarkvara tõlkimisele teistesse keeltesse või parandada olemasolevaid tõlkeid, soovitame teil <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">lugeda lehte, kus on kirjeldatud samme, mida järgida</a>."
+    "licences": "Library licences:" #"Raamatukogu litsentsid:" **
   },
   "settings": {
-    "title": "Settings",
-    "content": "Please, provide the address (URL) of the remote server:",
-    "update": "Update URL"
+    "title": "Settings", #"Sätted"
+    "content": "Please, provide the address (URL) of the remote server:", #"Palun lisa eraldiasuvate privaatvõrkude serveri aadress (URL)"
+    "update": "Update URL" #"Uuenda URL"
   },
   "validation_page": {
-    "responsible": "Person accountable for validating the PIA: ",
-    "after_reading": "After reading full PIA relating to the data processing linked to ",
-    "confirmation1": "I attest that the context of the processing described in the PIA is consistent with the reality.",
-    "confirmation2": "I attest that I am aware of the risks depending on the existing or planned measures.",
-    "confirmation3": "I ratify the corrective actions indicated in the action plan.",
-    "confirmation4": "I commit to implement as quickly as possible the indicated corrective actions.",
+    "responsible": "Person accountable for validating the PIA: ", #"Inimene, kes vastutab mõjuhinnangu valideerideerimise eest:"
+    "after_reading": "After reading full PIA relating to the data processing linked to ", #"Peale andmete töötlemise mõjuhinnangu lugemist"
+    "confirmation1": "I attest that the context of the processing described in the PIA is consistent with the reality.", #"Kinnitan, et mõjuhinnangus kajastatud töötlemise andmed vastavad tegelikkusele."
+    "confirmation2": "I attest that I am aware of the risks depending on the existing or planned measures.", #"Kinnitan, et olen kursis olemasolevate või kavandatud meetmetega seotud riskidega."
+    "confirmation3": "I ratify the corrective actions indicated in the action plan.", #"Ratifitseerin tegevuskavas märgitud parandusmeetmed."
+    "confirmation4": "I commit to implement as quickly as possible the indicated corrective actions.", #"Rakendan osundatud parandusmeetmed võimalikult kiiresti."
     "button": {
-      "rejection": "Reject PIA",
-      "simple_validation": "Approve PIA <br>(direct)",
-      "signed_validation": "Approve PIA <br>(signed)"
+      "rejection": "Reject PIA", #"Lükka mõjuhinnang tagasi"
+      "simple_validation": "Approve PIA <br>(direct)", #"Kinnita mõjuhinnang <br>(direct)"
+      "signed_validation": "Approve PIA <br>(signed)", #"Kinnita mõjuhinnang <br>(signed)"
     },
-    "mandatory_fields": "All boxes must be checked",
-    "waiting_for_signature": "Pending signed PIA",
-    "validated_pia_with_signature": "Approved",
-    "add_signed_pia": "Add the signed PIA",
-    "remove_attachment": "Remove the attachment",
-    "latest_signed_attachment": "Last signed attachment",
-    "signed_attachments_history": "Signed attachments history",
+    "mandatory_fields": "All boxes must be checked", #"Kõik kastid peavad olema märgitud"
+    "waiting_for_signature": "Pending signed PIA", #"Ootel allkirjastatud mõjuhinnang"
+    "validated_pia_with_signature": "Approved", #"Kinnitatud"
+    "add_signed_pia": "Add the signed PIA", #"Lisa allkirjastatud mõjuhinnang"
+    "remove_attachment": "Remove the attachment", #"Eemalda lisa"
+    "latest_signed_attachment": "Last signed attachment", #"Viimati allkirjastatud lisa"
+    "signed_attachments_history": "Signed attachments history", #"Allkirjastatud lisade ajalugu"
     "tools": {
-      "dashboard": "Dashboard",
-      "display_pia": "Display report",
-      "action_plan": "Action plan"
+      "dashboard": "Dashboard", #"Töölaud"
+      "display_pia": "Display report", #"Kuva auranne"
+      "action_plan": "Action plan", #"Tegevuskava"
     }
   },
   "rejection_page": {
-    "title": "Validation history",
-    "rejection_reason": "Refusal reason",
-    "rejection_reason_placeholder": "Describe the reasons for refusing the PIA.",
-    "applied_adjustments": "Adjustments proposed",
-    "applied_adjustments_placeholder": "Describe the changes brought to the PIA.",
-    "previous_rejection": "Previous refusal",
+    "title": "Validation history", #"Valideerimise ajalugu"
+    "rejection_reason": "Refusal reason", #"Keeldumise põhjus"
+    "rejection_reason_placeholder": "Describe the reasons for refusing the PIA.", #"Selgita mõjuhinnangust keeldumise põhjuseid."
+    "applied_adjustments": "Adjustments proposed", #"Muudatused on välja pakutud"
+    "applied_adjustments_placeholder": "Describe the changes brought to the PIA.", "Kirjelda mõjuhinnangusse lisatud muudatusi."
+    "previous_rejection": "Previous refusal", #"Eelnev keeldumine"
     "button": {
-      "abandon_treatment": "Abandon processing",
-      "reject_pia": "Reject PIA",
-      "send_for_validation": "Resend for approval"
+      "abandon_treatment": "Abandon processing", #"Loobu töötlemisest"
+      "reject_pia": "Reject PIA", #"Lükka mõjuhinnang tagasi"
+      "send_for_validation": "Resend for approval" #"Saada uuesti kinnitamiseks"
     }
   },
   "misc": {
-    "display": "Show / Hide"
+    "display": "Show / Hide" #"Näita / Peida"
   },
   "modals": {
-    "cancel": "Cancel",
-    "archive": "Archive",
-    "close": "Close",
-    "continue": "Continue",
-    "start_evaluation": "Start review",
-    "back_to_home": "Back to home",
+    "cancel": "Cancel", #"Tühista"
+    "archive": "Archive", #"Arhiveeri"
+    "close": "Close", #"Sule"
+    "continue": "Continue", #"Jätka"
+    "start_evaluation": "Start review", #"Alusta ülevaatust"
+    "back_to_home": "Back to home", #"Tagasi koju"
     "simple_pia_validation": {
-      "content": "You have approved the PIA."
+      "content": "You have approved the PIA." #"Mõjuhinnang on kinnitatud."
     },
     "completed_edition": {
-      "content": "The PIA has been fully edited and has to be reviewed."
+      "content": "The PIA has been fully edited and has to be reviewed." #"Mõjuhinnang on täielikult redigeeritud ja selle peab nüüd üle vaatama."
     },
     "completed_evaluation": {
-      "content": "The PIA has been fully reviewed and can be validated."
+      "content": "The PIA has been fully reviewed and can be validated." #"Mõjuhinnang on täielikult läbi vaadatud ja selle saab nüüd kinnitada."
     },
     "update_server_url_ok": {
-      "content": "The server address has been updated."
+      "content": "The server address has been updated." #"Serveri aadress on uuendatud."
     },
     "update_server_url_nok": {
-      "content": "Connection impossible."
+      "content": "Connection impossible." #"Võimatu ühendus"
     },
     "signed_pia_validation": {
-      "content": "To approve the PIA, attach the signed report.",
-      "download_pia": "Download report"
+      "content": "To approve the PIA, attach the signed report.", #"Selleks, et mõjuhinnang kinnitada, lisa allkirjastatud aruanne."
+      "download_pia": "Download report" #"Lae aruanne alla"
     },
     "abandon_pia": {
-      "content": "Do you wish to give up the processing?",
-      "additional_text": "Archiving is not definitive and the PIA can go back to it if needed."
+      "content": "Do you wish to give up the processing?", #"Kas te soovite töötlemisest loobuda?"
+      "additional_text": "Archiving is not definitive and the PIA can go back to it if needed." #"Arhiveerimine ei ole lõpuni viidud ja mõjuhinnangu juurde saab vajadusel tagasi minna."
     },
     "refuse_pia": {
-      "content": "As you have rejected the PIA, it is sent back for review to make the required changes."
+      "content": "As you have rejected the PIA, it is sent back for review to make the required changes." #"Kuna te olete mõjuhinnangu tagasi lükanud, siis see on ülevaatamiseks ja muutuste tegemiseks tagasi saadetud."
     },
     "same_comment": {
       "content": "<span class='strong'>Hoiatus,</span><br>Palun sisestage kommentaar, mis erineb viimasest kirjapandust."
