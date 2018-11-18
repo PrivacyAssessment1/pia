@@ -10,14 +10,14 @@
   "header": {
     "logo_title": "Andmekaitsealane mõjuhinnag",
     "logo_subtitle": "",
-    "homepage_link": “Töölaud”,
+    "homepage_link": "Töölaud",
     "knowledge_base_link": "Teadmiste pagas",
-    "pia_example_link": “Mõjuhinnangu näidis”,
+    "pia_example_link": "Mõjuhinnangu näidis",
     "languages": {
-      "official_translation": “Originaal versioon”,
-      "cnil_translations": “CNIL’i  esitatud tõlge”,
-      "dpa_translations": “Järelvalveasutuse kontrollitud tõlge”,
-      "community_translations": “Kogukondade tehtud tõlked”,
+      "official_translation": "Originaal versioon",
+      "cnil_translations": "CNIL’i  esitatud tõlge",
+      "dpa_translations": "Järelvalveasutuse kontrollitud tõlge",
+      "community_translations": "Kogukondade tehtud tõlked",
       "cz": "Česky",
       "de": "Deutsch",
       "el": "Ελληνικά",
@@ -364,7 +364,7 @@
       "PIA_SEC_CTR": {
         "placeholder": "Kirjeldage siin erimeetmeid protsessiosalistele (serverimajutaja, hooldaja, administraator, eriteenuste pakkujad jt.)",
         "name": "Protsessiga seotud lepingud",
-        "description": “Alltöövõtjate poolt edastataval või käideldaval isikuandmetel peavad olema piisavad tagatised. Kasutage ainult piisavaid tagatisi pakkuvaid alltöövõtjaid </ strong> (eriti silmas pidades eriteadmisi, usaldusväärsust ja ressursse). Hankige teenusepakkujalt tema teabesüsteemide turvalisusmeetmed. <br> Kasutage ja kirjeldage meetmete tulemusi (turvalisusaudit, külastage rajatisi jne.), et <strong> veenduda alltöövõtja poolt pakutavate tagatiste tõhususes <strong> seoses andmeturvalisusega. Tagatiste hulka kuuluvad: -teabe krüpteerimine kooskõlas tundlikkusega või säilitamine olukorras, kus protseduurid tagavad, et säilitaja ei pääse andmetele juurde; -edastatava teabe krüpteermine (nt. HTTPS ühendus, VPN jne.) <br> -võrguturvalisuse, järgitavuse (logid, audited), õiguste haldus, tuvastamine jne. < strong> Esitage alltöövõtjaga sõlmitud leping </ strong>, mis määrab andmete käitluse põhjused, kestuse, eesmärgi ja poolte kohustused. Tagage, et oleks kindlasti sätestatud: -alltöövõtjale usaldatud isikuandmete konfidentsiaalsus <br> -kasutajate tuvastamise miinimumnõuded <br> -andmete tagastamise ja/või kustutamise tingimused lepingu lõppemisel <br> -vahejuhtumite menetlemine ja neist teavitamine. Need peavad sisaldama esimesel võimalusel järelvalveasutuse teavitamist turvalisuse murdmisest või turvalisusega seotud vahejuhtumist juhul kui see mõjutas isikuandmeid. <br> -pilveteenuse pakkuja korral: <br> \ t1. Tuvastage selgesti pilve minev teave ja teabe käitlus; <br> \ t2. Määratlege selle tehnilised ja õiguslikud turvanõuded; <br> \ t3. Viige läbi turvalisushindamine, et välja selgitada sobivad turvalisusmeetmed; <br> \ t4. Tuvastage kohane pilvetüüp planeeritavaks käitluseks; <br> \ t5. Valige piisavate tagatistega pakkuja; <br> \ t6. Vaadake üle sisemised turvameetmed; <br> \ t7. Seirake muutusi aja möödudes.",
+        "description": "Alltöövõtjate poolt edastataval või käideldaval isikuandmetel peavad olema piisavad tagatised. Kasutage ainult piisavaid tagatisi pakkuvaid alltöövõtjaid </ strong> (eriti silmas pidades eriteadmisi, usaldusväärsust ja ressursse). Hankige teenusepakkujalt tema teabesüsteemide turvalisusmeetmed. <br> Kasutage ja kirjeldage meetmete tulemusi (turvalisusaudit, külastage rajatisi jne.), et <strong> veenduda alltöövõtja poolt pakutavate tagatiste tõhususes <strong> seoses andmeturvalisusega. Tagatiste hulka kuuluvad: -teabe krüpteerimine kooskõlas tundlikkusega või säilitamine olukorras, kus protseduurid tagavad, et säilitaja ei pääse andmetele juurde; -edastatava teabe krüpteermine (nt. HTTPS ühendus, VPN jne.) <br> -võrguturvalisuse, järgitavuse (logid, audited), õiguste haldus, tuvastamine jne. < strong> Esitage alltöövõtjaga sõlmitud leping </ strong>, mis määrab andmete käitluse põhjused, kestuse, eesmärgi ja poolte kohustused. Tagage, et oleks kindlasti sätestatud: -alltöövõtjale usaldatud isikuandmete konfidentsiaalsus <br> -kasutajate tuvastamise miinimumnõuded <br> -andmete tagastamise ja/või kustutamise tingimused lepingu lõppemisel <br> -vahejuhtumite menetlemine ja neist teavitamine. Need peavad sisaldama esimesel võimalusel järelvalveasutuse teavitamist turvalisuse murdmisest või turvalisusega seotud vahejuhtumist juhul kui see mõjutas isikuandmeid. <br> -pilveteenuse pakkuja korral: <br> \ t1. Tuvastage selgesti pilve minev teave ja teabe käitlus; <br> \ t2. Määratlege selle tehnilised ja õiguslikud turvanõuded; <br> \ t3. Viige läbi turvalisushindamine, et välja selgitada sobivad turvalisusmeetmed; <br> \ t4. Tuvastage kohane pilvetüüp planeeritavaks käitluseks; <br> \ t5. Valige piisavate tagatistega pakkuja; <br> \ t6. Vaadake üle sisemised turvameetmed; <br> \ t7. Seirake muutusi aja möödudes.",
         "source": "Lepinguga näidatud ja määratud meetmed"
       },
       "PIA_SEC_NET": {
