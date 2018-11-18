@@ -988,272 +988,272 @@
       "risks_overview_content": "Kuva riskide ülevaade",
       "risks_cartography_content": "Kuva riskide kaardistamine",
     },
-    "title": "PIA information", #"Mõjuhinnangu informatsioon"
-    "pia_name": "PIA", #"Mõjuhinnang"
-    "pia_author": "Author's name", #"Autori nimi"
-    "pia_assessor": "Assessor's name", #"Hindaja nimi"
-    "pia_validator": "Validator's name", #"Valideerija nimi"
+    "title": "Mõjuhinnangu teave",
+    "pia_name": "Mõjuhinnang",
+    "pia_author": "Autori nimi",
+    "pia_assessor": "Hindaja nimi",
+    "pia_validator": "Kinnitaja nimi",
     "content_choice": {
-      "0": "The treatment should not be used.", #"Ravi ei tohiks kasutada"
-      "1": "The treatment could be implemented.", #"Ravi võib rakendada"
+      "0": "Millist käsitlust ei tohiks kasutada",
+      "1": "Millist käsitlust võib rakendada",
     },
-    "dpo_name": "DPO's name", #"Mõjuhinnangu nimi"
-    "dpo_status": "DPO's status", #"Mõjuhinnangu staatus"
-    "dpo_opinion": "DPO's opinion", #"Andmekaitseametniku arvamus"
-    "concerned_people_searched_opinion": "Search of concerned people opinion", #"Puudutatud isikute arvamuse otsimine"##
-    "people_search_status_ok": "Concerned people opinion was requested.", #"Puudutatud isikute arvamus on küsitud"
-    "people_search_status_nok": "Concerned people opinion wasn't requested.", #"Puudatud isikute arvmus ei ole küsitud"
-    "concerned_people_unsearched_opinion_comment": "Reason why concerned people opinion wasn't requested", #"Põhjus miks puudutatud isikute arvamust ei ole küsitud"
-    "concerned_people_name": "Concerned people opinions", #"Puudutatud isikute arvmused"
-    "concerned_people_status": "Concerned people statuses", #"Puudutatud isikute staatused"
-    "concerned_people_opinion": "Concerned people opinions", #"Puudutatud isikute arvamused"
-    "modification_made": "Modifications made", #"Tehtud muudatused"
-    "rejection_reason": "Rejection reason", #"Tagasilükkamise põhjus"
-    "creation_date": "Creation date", #"Loomise kuupäev"
-    "attachments": "Attachments", #"Manused"
+    "dpo_name": "Andmekaitsespetsialisti nimi",
+    "dpo_status": "Andmekaitsespetsialisti staatus",
+    "dpo_opinion": "Andmekaitsespetsialisti arvamus",
+    "concerned_people_searched_opinion": "Puudutatud isikute arvamuse küsimine",
+    "people_search_status_ok": "Puudutatud isikute arvamus on küsitud",
+    "people_search_status_nok": "Puudatud isikute arvmus ei ole küsitud",
+    "concerned_people_unsearched_opinion_comment": "Põhjus miks puudutatud isikute arvamust ei ole küsitud",
+    "concerned_people_name": "Puudutatud isikute nimed",
+    "concerned_people_status": "Puudutatud isikute staatused",
+    "concerned_people_opinion": "Puudutatud isikute arvamused",
+    "modification_made": "Tehtud muudatused",
+    "rejection_reason": "Tagasilükkamise põhjus",
+    "creation_date": "Loomise kuupäev",
+    "attachments": "Manused",
     "gauges": {
-      "1": "Negligible", #"Ebaoluline"
-      "2": "Limited", #"Piiratud"
-      "3": "Important", #"Oluline"
-      "4": "Maximum", #"Maksimaalne"
+      "1": "Ebaoluline",
+      "2": "Piiratud",
+      "3": "Oluline",
+      "4": "Maksimaalne",
     },
     "action_plan": {
-      "title": "Action plan", #"Tegevuskava"
-      "fundamental_principles": "Fundamental principles", #"Põhiprintsiibid"
-      "implementation_date": "Expected date of implementation", #"Oodatav rakendamise kuupäev"
-      "implementation_responsible": "Responsible for implementation", #"Vastutab rakendamise eest"
-      "measures": "Existing or planned measures", #"Olemasolevad või kavandatavad meetmed"
-      "risks": "Risks", #"Riskid"
-      "no_action_plan": "No action plan recorded.", #"Ükski tegevuskava pole registreeritud."
+      "title": "Tegevuskava",
+      "fundamental_principles": "Põhiprintsiibid",
+      "implementation_date": "Oodatav rakendamise kuupäev",
+      "implementation_responsible": "Rakendamise eest vastutab",
+      "measures": "Olemasolevad või kavandatavad meetmed",
+      "risks": "Riskid",
+      "no_action_plan": "Ühtegi tegevuskava pole registreeritud.",
     },
-    "risks_overview_title": "Risks overview", #"Riskide ülevaade"
-    "risks_cartography_title": "Risk mapping", #"Riskide kaarditamine"
+    "risks_overview_title": "Riskide ülevaade",
+    "risks_cartography_title": "Riskide kaarditamine",
   },
   "errors": {
-    "title": "Page not found.", "Lehekülge ei leitud."
-    "content": "If you encounter other problems or if you have suggestions for improvement,<br>you can send them back via this form: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>", #" Kui teil tekib muid probleeme või kui teil on soovitusi, <br>võite need saata järgneva vormi kaudu: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>"
+    "title": "Lehekülge ei leitud.",
+    "content": "",
   },
   "overview-risks": {
-    "potential_impacts": "Potential impacts", #"Võimalikud mõjud"
-    "threat": "Threats", #"Ohud"
-    "sources": "Sources", #"Allikad"
-    "measures": "Measures", #"Meetmed"
-    "negligible": "Negligible", #"Ebaoluline"
-    "limited": "Limited", #"Piiratud"
-    "important": "Important", #"Oluline"
-    "maximal": "Maximal", #"Maksimaalne"
-    "risk-access_x": "Severity", #"Raskusaste"
-    "risk-access_y": "Likelihood", #"Tõenäosus"
-    "risk-change_x": "Severity", #"Raskusaste"
-    "risk-change_y": "Likelihood", #"Tõenäosus"
-    "risk-disappearance_x": "Severity", #"Raskusaste"
-    "risk-disappearance_y": "Likelihood" #"Tõenäosus"
+    "potential_impacts": "Võimalikud mõjud",
+    "threat": "Ohud",
+    "sources": "Allikad",
+    "measures": "Meetmed",
+    "negligible": "Ebaoluline",
+    "limited": "Piiratud",
+    "important": "Oluline",
+    "maximal": "Maksimaalne",
+    "risk-access_x": "Raskusaste",
+    "risk-access_y": "Tõenäosus",
+    "risk-change_x": "Raskusaste",
+    "risk-change_y": "Tõenäosus",
+    "risk-disappearance_x": "Raskusaste",
+    "risk-disappearance_y": "Tõenäosus",
   },
   "cartography": {
-    "negligible": "Negligible", #"Ebaoluline"
-    "limited": "Limited", #"Piiratud"
-    "important": "Important", #"Oluline"
-    "maximal": "Maximum", #"Maksimaalne"
-    "seriousness_axe": "Risk seriousness", #"Riski tõsidus"
-    "likelihood_axe": "Risk likelihood", #"Riski tõenäosus"
-    "legend1": "Planned or existing measures", #"Kavandatavad või olemasolevad meetmed"
-    "legend2": "With the corrective measures implemented", #"Rakendatud parandusmeetmetega"
-    "legend3": "(I)llegitimate access to data", #"(E)baseaduslik juurdepääs andmetele"
-    "legend4": "(U)nwanted modification of data", #"(A)ndmete soovimatu muutmine"
-    "legend5": "(D)ata disappearance", #"(A)ndmete kadumine"
+    "negligible": "Ebaoluline",
+    "limited": "Piiratud",
+    "important": "Oluline",
+    "maximal": "Maksimaalne",
+    "seriousness_axe": "Riski tõsidus",
+    "likelihood_axe": "Riski tõenäosus",
+    "legend1": "Kavandatavad või olemasolevad meetmed",
+    "legend2": "Rakendatud parandusmeetmetega",
+    "legend3": "(E)baseaduslik juurdepääs andmetele",
+    "legend4": "(A)ndmete soovimatu muutmine",
+    "legend5": "(A)ndmete kadumine",
     "risk1_access": "(I)",
     "risk2_modification": "(U)"
   },
   "action_plan": {
-    "title": "Overview", #"Ülevaade"
-    "principles": "Fundamental principles", #Põhiprintsiibid"
-    "measures": "Planned or existing measures", #"Kavandatavad või olemasolevad meetmed"
-    "risks": "Risks", #"Riskid"
-    "risk1": "Illegitimate access to data", #"Ebaseaduslik juurdepääs andmetele"
-    "risk2": "Unwanted modification of data", #"Andmete soovimatu muutmine"
-    "risk3": "Data disappearance", #"Andmete kadumine"
-    "improvable_measures": "Improvable measures", #"Parandatavad meetmed"
-    "acceptable_measures": "Acceptable measures", #"Vastuvõetavad meetmed"
-    "no_action_plan": "No action plan recorded.", #"Ükski tegevuskava pole registreeritud."
-    "edit": "Edit", #"Redigeeri"
-    "placeholder_person_in_charge": "Implementation responsible", #"Vastutav rakendamise eest"##
+    "title": "Ülevaade",
+    "principles": "Põhiprintsiibid",
+    "measures": "Kavandatavad või olemasolevad meetmed",
+    "risks": "Riskid",
+    "risk1": "Ebaseaduslik juurdepääs andmetele",
+    "risk2": "Andmete soovimatu muutmine",
+    "risk3": "Andmete kadumine",
+    "improvable_measures": "Parandavad meetmed",
+    "acceptable_measures": "Vastuvõetavad meetmed",
+    "no_action_plan": "Ühtegi tegevuskava pole registreeritud.",
+    "edit": "Redigeeri",
+    "placeholder_person_in_charge": "Vastutav rakendamise eest",
   },
   "opinions": {
-    "edit": "Edit", #"Redigeeri"
-    "content": ", consider that :",#", arvesta et:"
-    "dpo_opinion": "DPO opinion", #"Andmekaitsespetsilisti arvamus"
-    "placeholder_dpo_name": "DPO name(s)", #"Andmekaitsespetsilisti nimi"
-    "placeholder_dpo_opinion": "Specify the reasons for your choice.", #"Täpsustage oma valikute põhjused."
-    "dpo_lock": "Please complete the other sections before you can fill the DPO opinion.", #"Palun täitke teised jaotised, enne kui asute täitma mõjuhinnangu arvamust."
-    "people_opinion": "Concerned people opinion", #"Puudutatud isikute arvamus"
-    "placeholder_concerned_people_name": "Concerned people name(s)", #"Puudutatud isikude nimed"
-    "placeholder_people_opinion": "Describe how the opinions were collected and what the analysis is. If the notices have not been sought, state the reasons.", #"Kirjeldage kuidas arvamusi koguti ja milline on nende analüüs. Kui arvamusi pole taotletud, põhjendage miks."
-    "placeholder_search_content": "Justify the reason why the opinion of the persons concerned has not been requested.", #"Põhjenda miks ei ole asjaomaste isikute arvamust taotletud."
-    "treatment_ok": "The treatment could be implemented.", #"Ravi võib rakendada"
-    "treatment_nok": "The treatment should not be used.", #"Ravi ei või rakendada"
-    "treatment_lock": "Please complete the other sections before you can fill the opinions of the persons concerned.", #"Palun täitke teised jaotised, enne kui asute täitma puudutatud isiku arvamust."
+    "edit": "Redigeeri",
+    "content": ", arvesta et:",
+    "dpo_opinion": "Andmekaitsespetsilisti arvamus",
+    "placeholder_dpo_name": "Andmekaitsespetsilisti nimi",
+    "placeholder_dpo_opinion": "Täpsustage oma valikute põhjused.",
+    "dpo_lock": "Palun täitke teised jaotised, enne kui asute täitma amdmekaitsespetsialisti arvamust.",
+    "people_opinion": "Puudutatud isikute arvamus",
+    "placeholder_concerned_people_name": "Puudutatud isikude nimed",
+    "placeholder_people_opinion": "Kirjeldage kuidas arvamusi koguti ja milline on nende analüüs. Kui arvamusi pole taotletud, põhjendage miks.",
+    "placeholder_search_content": "Põhjendage miks ei ole asjaomaste isikute arvamust taotletud.",
+    "treatment_ok": "Millist käsitlust võib rakendada",
+    "treatment_nok": "Millist käsitlust ei või rakendada",
+    "treatment_lock": "Palun täitke teised jaotised, enne kui asute täitma puudutatud isiku arvamust.",
   },
   "sections": {
     "1": {
-      "title": "Context", #"Sisu"
-      "short_help": "This section gives you a clear view of the treatment(s) of personal data in question.", #"See jaotis annab selge ülevaate kõnealuste isikuandmete töötlemisest."
+      "title": "Sisu",
+      "short_help": "See jaotis annab selge ülevaate kõnealuste isikuandmete töötlemisest.",
       "items": {
         "1": {
-          "title": "Overview", #"Ülevaade"
-          "short_help": "This part allows you to identify and present the object of the study.", #"See osa võimaldab uuringu objekti identifitseerida ja esitada."
+          "title": "Ülevaade",
+          "short_help": "See osa võimaldab uuringu objekti identifitseerida ja esitada.",
           "questions": {
             "1": {
-              "title": "Which is the processing under consideration?", #"Mis on vaadeldav protsess?"##
-              "placeholder": "Present a brief outline of the processing: its name, purposes, stakes, context of use, etc.", #"Esitage töötlemise lühike ülevaade: selle nimi, eesmärgid, panused, kasutuskontekstid jne."
+              "title": "Milline on vaadeldav protsess?",
+              "placeholder": "Esitage töötlemise lühike ülevaade: selle nimi, eesmärgid, panused, kasutuskontekstid jne.",
             },
             "2": {
-              "title": "What are the responsibilities linked to the processing?", #"Millised on töötlemisega seotud kohustused?"
-              "placeholder": "Describe the responsabilities of the stakeholders: the data controller, the possible data processors and joint controllers.", #"Kirjeldage sidusrühmade vastutust: andmetöötleja, võimaliku andmetöötlusprotsessori ja ühiste töötlejate."##
+              "title": "Millised on töötlemisega seotud kohustused?",
+              "placeholder": "Kirjeldage sidusrühmade vastutust: vastutav töötleja, võimalik volitatud töötleja ja kaasvastutavad töötlejad.",
             },
             "3": {
-              "title": "Are there standards applicable to the processing?", #"Kas töötlemisele kohalduvad teatud standardid?"
-              "placeholder": "List the relevant standards applicable to the processing, especially approved codes of conduct and data protection certifications.", #"Loetlege töötlemiseks kohaldatavad asjakohased standardid, eriti heakskiidetud tegevusjuhendid ja andmekaitsetunnistused."
+              "title": "Kas töötlemisele kohalduvad teatud standardid?",
+              "placeholder": "Loetlege töötlemiseks kohaldatavad asjakohased standardid, eriti heakskiidetud tegevusjuhendid ja andmekaitse sertifikaadid.",
             }
           }
         },
         "2": {
-          "title": "Data, processes and supporting assets", #"Andmed, protsessid ja toetavad varad."
-          "short_help": "This part allows you to define and describe the scope of the processing in detail.", #"See osa võimaldab teil üksikasjalikult määratleda ja kirjeldada töötlemise ulatust."
+          "title": "Andmed, tegevused ja toetavad varad.",
+          "short_help": "See osa võimaldab teil üksikasjalikult määratleda ja kirjeldada töötlemise ulatust.",
           "questions": {
             "1": {
-              "title": "What are the data processed?", #"Milliseid andmeid töödeldakse?"
-              "placeholder": "List the data collected and processed. Define for each the storage durations, the recipients and persons with access thereto.", #"Loetlege kogutud ja töödeldud andmed. Määratlege iga säilitamise kestus, adressaadid ja neile juurdepääsetavad isikud."
+              "title": "Milliseid andmeid töödeldakse?",
+              "placeholder": "Loetlege kogutud ja töödeldud andmed. Määratlege iga andme säilitamise kestus, vastuvõtjad ja neile juurdepääsevad isikud.",
             },
             "2": {
-              "title": "How does the life cycle of data and processes work?", #"Kuidas andmete ja töötluste elutsükkel toimib?
-              "placeholder": "Present and describe how the product generally works (from the data collection to the data destruction, the different processing stages, storage, etc.), using for example a diagram of data flows (add it as an attachment) and a detailed description of the processes carried out.", #"Esitage ja kirjeldage, kuidas toode üldjuhul töötab (andmete kogumisest andmete hävitamiseni, erinevaid töötlemise etappe, ladustamist jne), kasutades näiteks andmevoogude diagrammi (lisage see manusena) ja kirjeldage üksikasjalikult läbiviidud protsesse."
+              "title": "Kuidas andmete ja töötluste elutsükkel toimib?",
+              "placeholder": "Esitage ja kirjeldage, kuidas toode üldjuhul töötab (andmete kogumisest kuni hävitamiseni, erinevaid töötlemise etappe, ladustamist jne), kasutades näiteks andmevoogude diagrammi (lisage see manusena) ja kirjeldage üksikasjalikult läbiviidud protsesse.",
             },
             "3": {
-              "title": "Millised on andmeid toetavad detailid? ; What are the data supporting assets?",
-              "placeholder": " Nimetle andmeid toetavad funktsioonid ja detailid (operatsioonisüsteem, ärirakendused, protokollid, konfiguratsioonid jne) List the data supporting assets (operating systems, business applications, database management systems, office suites, protocols, configurations, etc.)"
+              "title": "Millised on andmeid toetavad varad?",
+              "placeholder": "Nimetle andmeid toetavad varad (operatsioonisüsteem, ärirakendused, protokollid, konfiguratsioonid jne)",
             }
           }
         }
       }
     },
     "2": {
-      "title": "Fundamental principles", #"olulised printsiibid ja aluspõhimõtted"
-      "short_help": "This section allows you to build the compliance framework for privacy principles.", #"See alasektsioon võimaldab Teile luua raamvõrgustik andmekaitse printsiipidele ja aluspõhimõtetele"
+      "title": "Töötlemise põhimõtted",
+      "short_help": "This section allows you to build the compliance framework for privacy principles.", #"See alasektsioon võimaldab Teile luua vasatvuse raamistiku isikuandmete kaitse põhimõtetele.",
       "items": {
         "1": {
-          "title": "Proportionality and necessity", #Propotsionaalsus ja vajalikkus"
-          "short_help": "This part allows you to demonstrate the legitimacy of your treatment and of the data processed.", #"See alasektsioon võimaldab Teil esitleda oma töödeldud andmete ja andmetöötluse seaduslikkust"
+          "title": "Propotsionaalsus ja vajalikkus",
+          "short_help": "See alasektsioon võimaldab Teil esitleda oma töödeldud andmete ja andmetöötluse seaduslikkust",
           "questions": {
             "1": {
-              "title": "Are the processing purposes specified, explicit and legitimate?", #"Kas andmetöötluse eesmärgid on seaduslikud, määratletud täpselt ja selgesõnaliselt ja 
-              "short_title": "Purposes", #"Eesmärgid
-              "placeholder": "Explain why the processing purposes are specified, explicit and legitimate." #"Kirjeldage palun, millisel moel on andmetöötluse eesmärgid seaduslikud, täpsed ja selgesõnaliselt esitletud?
+              "title": "Kas andmetöötluse eesmärgid on seaduslikud, määratletud täpselt ja selgesõnaliselt?",
+              "short_title": "Eesmärgid",
+              "placeholder": "Kirjeldage palun, millisel moel on andmetöötluse eesmärgid seaduslikud, täpsed ja selgesõnaliselt esitletud?",
             },
             "2": {
-              "title": "What are the legal basis making the processing lawful?", #"Milised on andmetöötluse seaduslikud alused?
-              "short_title": "Legal basis", #"Seaduslik alus
-              "placeholder": "Describe what is/are the legal basis of your processing (ex: consent, performance of a contract, compliance with a legal obligation, protecting the vital intests, etc.)" #"Palun kirjeldage ja nimetleg, millised on andmetöötluse seaduslikud alused (andmesubjekti nõusolek, lepingu täitmine, oluliste huvide kaitse jms)
+              "title": "Milised on andmetöötluse seaduslikud alused?,
+              "short_title": "Seaduslik alus",
+              "placeholder": "Palun kirjeldage ja nimetage, millised on andmetöötluse seaduslikud alused (andmesubjekti nõusolek, lepingu täitmine, õigustatud huvi jms)",
             },
             "3": {
-              "title": "Are the data collected adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed ('data minimisation')?", #"Kas kogutud andmed on asjakohased, olulised ja piiratud sellega, mis on vajalik nende töötlemise eesmärgi seisukohalt („võimalikult väheste andmete kogumine“)?
-              "short_title": "Adequate data", #"Kogutud andmete asjakohasus
-              "placeholder": "Explain why each of the data collected is necessary for the purposes of your processing." #"Palun kirjelda, miks on kogutud andmed vajalikud andmete töötlemise eesmärgi jaoks."
+              "title": "Kas kogutud andmed on asjakohased, olulised ja piiratud sellega, mis on vajalik nende töötlemise eesmärgi seisukohalt („võimalikult väheste andmete kogumine“)?",
+              "short_title": "Kogutud andmete asjakohasus",
+              "placeholder": "Palun kirjelda, miks on kogutud andmed vajalikud andmete töötlemise eesmärgi jaoks.",
             },
             "4": {
-              "title": "Are the data accurate and kept up to date?", #"Kas kogutud andmed on täpsed ja faktilised õiged (õigsus?"
-              "short_title": "Data accuracy", #"Andmete õigsus"
-              "placeholder": "Describe which are the steps taken to ensure the quality of the data." #"Kirjelda palun, milliseid samme on ette võetud, et kindlustada andmete õigsus ja kvaliteet"
+              "title": "Kas kogutud andmed on täpsed ja õiged (õigsus?"
+              "short_title": "Andmete õigsus",
+              "placeholder": "Kirjelda palun, milliseid samme on ette võetud, et kindlustada andmete õigsus ja kvaliteet",
             },
             "5": {
-              "title": "What are the storage duration of the data?",
-              "short_title": "Storage duration", #"Andmete säilitamise kestvus"
-              "placeholder": "Explain why the storage durations are justified by legal requirements and/or processing needs." #"Palun selgita, miks on andmete säilitamise ajaline kestvus vajalik seaduslike nõuete või töötluse seisukohast"
+              "title": "Milline on andmete säilitamise kestus?",
+              "short_title": "Andmete säilitamise kestus",
+              "placeholder": "Palun selgita, miks on andmete säilitamise ajaline kestvus vajalik seaduslike nõuete või töötluse seisukohast",
             }
           }
         },
         "2": {
-          "title": "Controls to protect the personal rights of data subjects", #"Abinõud ja vajaminevad mehhanismid kaitsmaks andmekaitse subjektide õigusi"
-          "short_help": "This part allows you to demonstrate that you are implementing the necessary means to enable the persons concerned to exercise their rights.", #"Käesoleva osa võimaldab Sul näidata, et sa rakendad vajaminevaid õigusi, et andmesubjektid ja teised puudatud isikud saaksid kasutada vajamineval määral oma õigusi"
+          "title": "Vajalikud abinõud ja mehhanismid andmesubjektide õiguste kaitsmiseks",
+          "short_help": "Käesoleva osa võimaldab Sul näidata, et sa rakendad vajalikke vahendeid, et andmesubjektid ja teised puudatud isikud saaksid kasutada oma õigusi",
           "questions": {
             "1": {
-              "title": "How are the data subjects informed on the processing?", #"Kuidas teavitatakse andmesubjekte andmete töötlemisest?
-              "short_title": "Information for the data subjects", "Teava, mis jagatakse andmesubjektile"
-              "placeholder": "Describe what is the information given to the data subjects and what are the means to do it." #"Kirjeldage, millist teavet jagatakse andmesubjektile ja milliste vahenditega.
+              "title": "Kuidas teavitatakse andmesubjekte andmete töötlemisest?",
+              "short_title": "Teava, mis jagatakse andmesubjektile",
+              "placeholder": "Kirjeldage, millist teavet ja kuidas jagatakse andmesubjektile",
             },
             "2": {
-              "title": "If applicable, how is the consent of data subjects obtained?", #"Kuidas toimub andmesubjektidelt nõusoleku saamine adnmete töötlemiseks?
-              "short_title": "Obtaining consent", #"Nõusoleku saamine
-              "placeholder": "Describe the controls intended to ensure that users' consent has been obtained." #"Kirjelda meetmeid, mis kindlustavad selle, et kasutajatelt on saadud nõusolek
+              "title": "Kuidas toimub andmesubjektidelt nõusoleku saamine andmete töötlemiseks?",
+              "short_title": "Nõusoleku saamine",
+              "placeholder": "Kirjelda meetmeid, mis kindlustavad selle, et andmesubjektilt on saadud nõusolek",
             },
             "3": {
-              "title": "How can data subjects exercise their rights of access and to data portability?", #"Kuidas on tagatudd andmesubjektide õigused, andmete ülekandmisele ja nendega tutvumisel? 
-              "short_title": "Right of access and to data portability", #"Andmesubjekti õigus tutvuda andmetega ja õigus nende ülekandmisele
-              "placeholder": "Describe the controls intended for enabling data subjects to access, receive and transmit their data." #"Kirjadega meetmeid, mis võimaldavad andmesubjektidel andmetega tutvuda, andmeid endale saada ja neid andmeid edastada
+              "title": "Kuidas on tagatud andmesubjektide õigused andmetega tutvumiseks ja ülekandmiseks?",
+              "short_title": "Andmesubjekti õigus tutvuda andmetega ja õigus nende ülekandmisele.",
+              "placeholder": "Kirjadega meetmeid, mis võimaldavad andmesubjektidel andmetega tutvuda, andmeid endale saada ja neid andmeid edastada."
             },
             "4": {
-              "title": "How can data subjects exercise their rights to rectification and erasure?", #"Kuidas saavad andmesubjektid teostada oma õigust andmete parandamisele ja nende kustatamisele ("õigus olla unustatud"?
-              "short_title": "Right to rectification and erasure", #"Õigus andmete parandamisele ja nende kustutamisele"
-              "placeholder": "Describe the controls intended for enabling data subjects to rectify and erase their data." #"Palun kirjelda, millised meetmed on ette nähtud, et andmesubjektid saaksid enda kohta käivaid andmeid parandada ja kustada?
+              "title": "Kuidas saavad andmesubjektid teostada oma õigust andmete parandamisele ja nende kustatamisele?",
+              "short_title": "Õigus andmete parandamisele ja nende kustutamisele",
+              "placeholder": "Palun kirjelda, millised meetmed on ette nähtud, et andmesubjektid saaksid enda kohta käivaid andmeid parandada ja kustada?",
             },
             "5": {
-              "title": "How can data subjects exercise their rights to restriction and to object?", "Kuidas saavad andmesubjektid kasutada oma õigusi isikuandmete töötlemise piiramisele ja õigusele esitada vastuväiteid?
-              "short_title": "Right to restriction and to object", #"Õigus isikuandmete töötlemise piiramisele ja õigus esitada vastuväited"
-              "placeholder": "Describe the controls intended for enabling data subjects to restrict and to object to the processing of their data." #"Kirjeldage rakendatud meetmeid, mis võimaldavad andmesubjektidel kasutada õigust andmete töötlemise piiramisele ja õigust esitada vastuväiteid?"
+              "title": "Kuidas saavad andmesubjektid kasutada oma õigusi isikuandmete töötlemise piiramisele ja õigusele esitada vastuväiteid?",
+              "short_title": "Õigus isikuandmete töötlemise piiramisele ja õigus esitada vastuväited"",
+              "placeholder": "Kirjeldage rakendatud meetmeid, mis võimaldavad andmesubjektidel kasutada õigust andmete töötlemise piiramisele ja õigust esitada vastuväiteid."
             },
             "6": {
-              "title": "Are the obligations of the processors clearly identified and governed by a contract?", #"Kas volitatud töötleja kohustused on lepingus määratletud selgesõnaliselt? 
-              "short_title": "Subcontracting", #"Alltöövõtt
-              "placeholder": "For each processor, describe his responsibilities (duration, scope, purpose, documented processing instructions, prior authorisation) and provide the contracts, codes of conduct and certifications determining its missions and obligations." #"Kirjelda iga alltöövõtja kohustusi (kohustuste kestvus, eesmärk, kohaldamisala, töötlemise juhised) ja samuti esita töötlemise aluseks olevad lepingud ja tööjuhised.
+              "title": "Kas volitatud töötleja kohustused on lepingus selgesõnaliselt määratletud?",
+              "short_title": "Subcontracting", #"Alltöövõtt",
+              "placeholder": "Kirjelda iga volitatud töötleja kohustusi (kohustuste kestvus, eesmärk, kohaldamisala, töötlemise juhised) ja samuti esita töötlemise aluseks olevad lepingud ja toimisjuhendid.",
             },
             "7": {
-              "title": "In the case of data transfer outside the European Union, are the data adequately protected?", #"Kas andmete edastamise puhul väljastpoolt Euroopa Liitu on andmed adekvaatselt kaitstud?
-              "short_title": "Transfers", #"Edastamised
-              "placeholder": "For each country outside the European Union where data are stored or processed, name it and tell if it is acknowledged as offering an adequate level of data protection or describe the provisions concerning the transfer." #"Nimeta millistes Euroopa Liidu välistes riikides hoiustatakse andmeid, samuti selgita palun, kas nimetatud andmete hoiustamise puhul tagatakse andmete piisava kaitse
+              "title": "Kas andmete edastamise puhul väljastpoolt Euroopa Liitu on andmed vajalikul määral kaitstud?",
+              "short_title": "Edastamised",
+              "placeholder": "Nimeta millistes Euroopa Liidu välistes riikides hoiustatakse ja töödeldakse andmeid, samuti selgita palun, kas nimetatud andmete edastamise ja hoiustamise puhul tagatakse andmete piisava kaitse.",
             }
           }
         }
       }
     },
     "3": {
-      "title": "Risks", #"Riskid
-      "short_help": "This section allows you to assess the privacy risks, taking into account existing or planned controls.", #"See alapeatükk võimaldab analüüsida privaatsus/andmekaitse riske arvestades olemasolevaid või planeeritavaid kaitsemeetmeid
+      "title": "Riskid",
+      "short_help": "See osa võimaldab analüüsida privaatsus/andmekaitse riske arvestades olemasolevaid või planeeritavaid kaitsemeetmeid.",
       "items": {
         "1": {
-          "title": "Planned or existing measures", "Planeeritavad või olemasolevad kaitsemeetmed
-          "short_help": "This section allows you to identify controls (existing or planned) that contribute to data security." #"See alapeatükk võimaldab sul nimetada olemasolevad või planeeritavad meetmed, mis on mõeldud andmekaitse jaoks
+          "title": "Planeeritavad või olemasolevad kaitsemeetmed",
+          "short_help": "See osa võimaldab sul nimetada olemasolevad või planeeritavad meetmed, mis on mõeldud andmekaitse jaoks.",
         },
         "2": {
-          "title": "Illegitimate access to data", "Ebaseaduslik andmetele ligipääs ja nendega tutvumine
-          "short_help": "Analyze the causes and consequences of illegitimate access to data, and estimate its severity and likelihood.", #"Analüüsi andmelekke võimalikke põhjuseid ja tagajärgi, samuti 
+          "title": "Ebaseaduslik andmetele ligipääs",
+          "short_help": "Analüüsi andmelekke võimalikke põhjuseid ja tagajärgi, samuti nende tõsidust ja juhtumise tõenäosust.",
           "questions": {
             "1": {
-              "title": "What could be the main <span class='green-highlight'>impacts on the data subjects</span> if the risk were to occur?",
-              "placeholder": "Enter the potential impacts" #"Nimeta selle potentsiaalsed tagajärjed ja mõjud
+              "title": "Milline võib olla  peamine<span class='green-highlight'> mõju andmesubjektile</span> kui risk leiab aset?",
+              "placeholder": "Nimeta selle võimalikud tagajärjed ja mõjud"
             },
             "2": {
-              "title": "What are the main <span class='green-highlight'>threats</span> that could lead to the risk?",
-              "placeholder": "Enter the threats" #"Nimeta ohud"
+              "title": "Millised on peamised<span class='green-highlight'>ohud</span> ?",
+              "placeholder": "Nimeta ohud",
             },
             "3": {
-              "title": "What are the risk <span class='green-highlight'>sources</span>?",
-              "placeholder": "Enter the risk sources" #"Nimeta riskide allikad
+              "title": "Millised on riskide <span class='green-highlight'>allikad</span>?",
+              "placeholder": "Nimeta riskide allikad",
             },
             "4": {
-              "title": "Which of the identified <span class='green-highlight'>controls</span> contribute to addressing the risk?",
-              "placeholder": "Click to select controls which address the risk." #"Kliki siin, et valida kaitsemeetmed, mis riske ohjavad
+              "title":  "Millised <span class='green-highlight'>kontrollimeetmed</span> aitavad riske ohjata?",
+              "placeholder": "Kliki siin, et valida kaitsemeetmed, mis riske ohjavad."
             },
             "5": {
-              "title": "How do you estimate the <span class='green-highlight'>risk severity</span>, especially according to potential impacts and planned controls?",
-              "placeholder": "Justify here the estimated severity of the risk." #"Nimeta riskide allikad
+              "title": "Kuidas hindate <span class='green-highlight'>riski tõsidust/raskusastet</span>, vastavalt võimalikele mõjudele ja kavandatavale kontrollile?",
+              "placeholder": "Põhjendage riskide raskusastet."
             },
             "6": {
-              "title": "How do you estimate the <span class='green-highlight'>likelihood of the risk</span>, especially in respect of threats, sources of risk and planned controls?",
-              "placeholder": "Justify here the estimated likelihood." #"Põhjenda siin antud tõenäosuse hinnangut
+              "title": "Kuidas hindate <span class='green-highlight'>riski tõenäosust</span>, vastavalt võimalikele mõjudele ja kavandatavale kontrollile?",
+              "placeholder": "Põhjendage tõenäosuse hinnangut."
             }
           }
         },
         "3": {
-          "title": "Unwanted modification of data", #"Soovimatu andmete muutmine
+          "title": "Soovimatu andmete muutmine",
           "short_help": "Analyze the causes and consequences of an undesired change in data, and estimate its seriousness and likelihood.",
           "questions": {
             "1": {
