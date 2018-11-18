@@ -43,7 +43,7 @@
   },
   "homepage": {
     "filters": {
-      "list": "list",#"Nimistu"
+      "list": "Nimistu",
       "card": "Kaart",
       "sort": "Sorteeri",
       "sort_by": "Sorteerimis valikud",
@@ -147,7 +147,7 @@
         },
         "validation": {
           "title": "Kinnitamise ootel.",
-          "content": "This part has been reviewed and is waiting for the overall PIA validation. If you wish to change the review, you have to ",#"See osa on ülevaadatud ja ootab kinnitamist. Ülevaatamise muutmiseks tuleb",
+          "content": "See osa on ülevaadatud ja ootab kinnitamist. Ülevaatamise muutmiseks tuleb",
           "cancel": "tühistada kinnitamise taotlus",
           "cancel_button": "Tühista kinnitamise taotlus"
         }
