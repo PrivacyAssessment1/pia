@@ -1253,27 +1253,27 @@
         },
         "3": {
           "title": "Soovimatu andmete muutmine",
-          "short_help": "Analyze the causes and consequences of an undesired change in data, and estimate its seriousness and likelihood.",
+          "short_help": "Analüüsige soovimatu andmete muutmise tõenäosususe riski ja selle tagajärgi.",
           "questions": {
             "1": {
-              "title": "What could be the main <span class='green-highlight'>impacts on the data subjects</span> if the risk were to occur?",
-              "placeholder": "Enter the potential impacts"
+              "title": "Mis on põhilised<span class='green-highlight'>mõjud andmesubjektidele </span> kui risk realiseerub?",
+              "placeholder": "Nimetaga potentsiaalsed tagajärjed"
             },
             "2": {
-              "title": "What are the main <span class='green-highlight'>threats</span> that could lead to the risk?",
-              "placeholder": "Enter the threats"
+              "title": "Mis on põhilised ohud <span class='green-highlight'>ohud</span> mis võivad viia riski realiseerumiseni?",
+              "placeholder": "Nimeatage ohud"
             },
             "3": {
-              "title": "What are the risk <span class='green-highlight'>sources</span>?",
-              "placeholder": "Enter the risk sources"
+              "title": "Millised on ohtude ja riskide <span class='green-highlight'>allikad</span>?",
+              "placeholder": "Nimetage allikad"
             },
             "4": {
-              "title": "Which of the identified <span class='green-highlight'>controls</span> contribute to addressing the risk?",
-              "placeholder": "Click here to select controls which address the risk."
+              "title": "Millised identfitseeritud <span class='green-highlight'>panustavad</span> panustavad riskide ohjamisse?",
+              "placeholder": "Nimetage abimeetmed, mis on mõeldud riskide aadresserimiseks."
             },
             "5": {
-              "title": "How do you estimate the <span class='green-highlight'>risk severity</span>, especially according to potential impacts and planned controls?",
-              "placeholder": "Justify here the estimated severity of the risk."
+              "title": "Kuidas hindate <span class='green-highlight'>riski tõsidust</span>, eriti arvestades selle mõjusid ja kohaldatud abimeetmeid?",
+              "placeholder": "Põhjendage riskide tõsidust."
             },
             "6": {
               "title": "How do you estimate the <span class='green-highlight'>likelihood of the risk</span>, especially in respect of threats, sources of risk and planned controls?",
@@ -1282,16 +1282,16 @@
           }
         },
         "4": {
-          "title": "Data disappearance",
-          "short_help": "Analyze the causes and consequences of data loss, and estimate its seriousness and likelihood.",
+          "title": "Andmete kadumine",
+          "short_help": "Analüüsi andmete kadumise võimalikke põhjused, tagajärgi ja anna hinnang selel tõenäosusele.",
           "questions": {
             "1": {
-              "title": "What could be the main <span class='green-highlight'>impacts on the data subjects</span> if the risk were to occur?",
-              "placeholder": "Enter the potential impacts"
+              "title": "Mis on <span class='green-highlight'> põhilised mõjud andmesubjektidele</span> ,kui selline risk realiseerub",
+              "placeholder": "Nimetage potentsiaalsed mõjud"
             },
             "2": {
-              "title": "What are the main <span class='green-highlight'>threats</span> that could lead to the risk?",
-              "placeholder": "Enter the threats"
+              "title": "Millised on põhilised <span class='green-highlight'>ohud</span>, mis võivad viia riskini?",
+              "placeholder": "Nimetage ohud"
             },
             "3": {
               "title": "What are the risk <span class='green-highlight'>sources</span>?",
